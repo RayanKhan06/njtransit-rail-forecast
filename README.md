@@ -1,92 +1,51 @@
-# NJ Transit Rail Performance: Forecasting & Diagnostics
+# NJ Transit Rail Performance: Time Series Forecast & Dashboard
 
-Forecasts NJ Transit's system-wide monthly on-time percentage and surfaces
-trends in what's driving train cancellations (crew availability, equipment,
-Amtrak-caused delays, etc.), using NJ Transit's own official monthly
-performance data.
+A look at NJ Transit's monthly rail performance data, from 2017 through mid-2026. This project forecasts future on-time percentage, checks whether fleet reliability actually predicts performance, digs into what's driving train cancellations, and figures out how much of NJ Transit's reported delay is really Amtrak's fault. Built using SQL, R, and Power BI.
 
-**Data source:** [njtransit.com/performance-data-download](https://www.njtransit.com/performance-data-download) —
-official, publicly published, updated monthly. Covers January 2017 through
-July 2026 (115 months) at time of writing. This is aggregate monthly data
-(not per-trip), so the project is built around monthly forecasting and
-trend diagnostics rather than per-train delay prediction.
+**Data source:** [njtransit.com/performance-data-download](https://www.njtransit.com/performance-data-download), NJ Transit's official monthly performance data.
 
-## What's in here
+## How it's organized
 
-| Layer | Tool | What it does |
-|---|---|---|
-| Ingestion | Python / pandas | Cleans raw CSVs, loads into SQLite (`app/load_data.py`) |
-| Feature engineering | SQL | Pivots cancellation causes, joins tables, computes lag/rolling features (`sql/feature_engineering.sql`) |
-| Modeling | Python / statsmodels | SARIMAX(1,1,1)(1,1,1,12) forecast of monthly on-time % (`app/train.py`) |
-| Diagnostics | R / ggplot2 | Cancellation-cause composition, Amtrak-adjusted comparison, MDBF regression (`r/eda_and_baseline.Rmd`) |
-| Serving | FastAPI | `/forecast` and `/cancellation-trends` endpoints (`app/main.py`) |
-| Packaging | Docker + docker-compose | Containerized API, optional Postgres service |
-| CI | GitHub Actions | Build data pipeline, train model, test, build image on every push |
+| Tool | What it's doing |
+|---|---|
+| SQL (SQLite) | Cleans the raw CSVs and joins them into one table with the features the analysis needs (lags, rolling averages, cancellation causes pivoted into columns) |
+| R | Forecasts on-time % with `auto.arima`, regresses it against fleet reliability, looks at cancellation trends, and compares official vs. Amtrak-adjusted performance |
+| Power BI | Ties it all together in a four-page dashboard |
 
-## Running it
+## Project structure
 
-```bash
-pip install -r requirements.txt
-
-# Build the database and feature table
-python app/load_data.py
-python -c "import sqlite3; conn = sqlite3.connect('njtransit.db'); conn.executescript(open('sql/feature_engineering.sql').read()); conn.commit()"
-
-# Train the model
-python app/train.py
-
-# Run tests
-pytest -v
-
-# Serve the API
-uvicorn app.main:app --reload
+```
+data/            Raw CSVs from njtransit.com
+sql/             The SQL script that builds the joined monthly_performance table
+r/               R script covering the forecast, regression, and cancellation analysis
+exports/         CSVs written by R for Power BI to pick up
+figures/         Static charts saved by the R script
+njtransit.sqbpro DB Browser for SQLite project file
+*.pbix           The Power BI dashboard
 ```
 
-Then:
-```bash
-curl "http://localhost:8000/forecast?months=6"
-curl "http://localhost:8000/cancellation-trends?category=pct_cause_crew&months=12"
+## Running it yourself
+
+**1. Build the database.** Import the CSVs in `data/` into a SQLite database (tables: `otp_monthly`, `otp_monthly_amtrak_adj`, `cancellations_monthly`, `mdbf_monthly`), then run:
+```sql
+.read sql/feature_engineering.sql
 ```
+That builds `monthly_performance`, which everything downstream reads from.
 
-### Docker
+**2. Run the R script.** Open `r/njtanalysis.R` in RStudio, set your working directory to the `r/` folder, and run it top to bottom (needs `tidyverse` and `forecast`). It'll forecast the next 6 months, run the MDBF regression, look at cancellation causes, and calculate the Amtrak gap, then write everything out to `exports/` and `figures/`.
 
-```bash
-docker build -t njtransit-api .
-docker run -p 8000:8000 njtransit-api
-```
+**3. Open the dashboard.** `NJT Time Series Forecast.pbix` pulls from the SQLite database and the exported CSVs. If you rebuild the data, you'll need to refresh the connections in Power BI.
 
-The `docker-compose.yml` additionally spins up a Postgres container
-alongside the API — the pipeline itself uses SQLite, so this is included
-to demonstrate multi-container orchestration and as a starting point if
-you migrate the SQL layer to a client-server database.
+## What I found
 
-### R analysis
+Forecasting turned out to be quite difficult. A backtested `auto.arima` model only just edges out a naive "assume nothing changes" baseline (MAE of about 1.72 vs. 1.77) — on-time percentage behaves close to a random walk month to month, so a fancier model doesn't buy you much.
 
-Open `r/eda_and_baseline.Rmd` in RStudio and knit it. Requires `tidyverse`,
-`lubridate`, and `scales`. (Written and reviewed against the confirmed CSV
-schema, but not executed in this environment — no R runtime was available
-where this was built, so knit it once locally before treating the output
-as final.)
+Fleet reliability does matter, but not as much as I expected going in. The relationship between MDBF and on-time % is statistically significant, and roughly translates to a 0.95 percentage point improvement in on-time performance for every 10,000 extra miles between failures. Still, it only explains about a quarter of the month-to-month variation, so it's one piece of the puzzle rather than the main driver.
 
-## Model honesty
+Cancellation causes are noisy rather than trending. Most categories (AMTRAK, crew availability, human factor) spike unpredictably without any clear long-term direction, which suggests they're driven by one-off events rather than gradual change. Mechanical issues are the exception, sitting at a noticeably higher baseline from around 2021 onward compared to earlier years.
 
-The SARIMAX model was backtested on the last 6 held-out months: **MAE 1.71
-percentage points vs. a naive baseline of 1.77** — a real but modest
-improvement. System-wide monthly on-time % is close to a random walk with
-mild yearly seasonality, so a large forecasting gain over "predict last
-month's value" was never realistic here. The honest pitch for this project
-is the full pipeline (SQL feature engineering → backtested forecasting →
-served API → CI/CD) and the diagnostic analysis of cancellation causes,
-not a claim of high forecast accuracy.
+And a meaningful chunk of NJ Transit's reported delays trace back to Amtrak. On average, NJ Transit's on-time percentage would be 2.64 points higher if you excluded delays attributed to Amtrak-controlled infrastructure, and in the worst month that gap hit 9.2 points.
 
-## Known limitations
+## Limitations worth knowing about
 
-- Aggregate monthly data only — no per-trip or per-line granularity in the
-  official download, so this can't predict whether *your* train today will
-  be late.
-- Amtrak-adjusted cancellations file has fewer rows than the unadjusted
-  file (850 vs. 961) — some months/categories only exist in one version.
-  Worth investigating before citing exact adjusted-vs-unadjusted deltas.
-- SARIMAX order (1,1,1)(1,1,1,12) was chosen as a reasonable starting
-  specification, not selected via grid search / AIC comparison — a next
-  step worth doing before treating this as a finished model.
+This is monthly, system-wide data, not per-trip, so it can't tell you whether your specific train today will be late. The Amtrak-adjusted cancellations file also has fewer rows than the unadjusted one, so some months or categories only show up in one version. And the forecasting model's order came from `auto.arima`'s automatic search rather than a manual grid search, since the modest improvement over the naive baseline didn't seem to justify the extra tuning.
