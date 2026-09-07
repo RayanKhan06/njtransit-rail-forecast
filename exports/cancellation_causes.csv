@@ -1,0 +1,657 @@
+period,category,cancel_pct
+2017-01-01,AMTRAK,45.4
+2017-01-01,Crew/Engineer Availability,1
+2017-01-01,Equipment Availability,0.5
+2017-01-01,Human Factor,3.9
+2017-01-01,Mechanical,27.1
+2017-01-01,Unpreventable,6.8
+2017-02-01,AMTRAK,10.7
+2017-02-01,Crew/Engineer Availability,10.1
+2017-02-01,Equipment Availability,4.7
+2017-02-01,Human Factor,13
+2017-02-01,Mechanical,23.1
+2017-02-01,Unpreventable,36.7
+2017-03-01,AMTRAK,66.6
+2017-03-01,Crew/Engineer Availability,6.5
+2017-03-01,Equipment Availability,0.6
+2017-03-01,Human Factor,2.3
+2017-03-01,Mechanical,8.4
+2017-03-01,Unpreventable,12.7
+2017-04-01,AMTRAK,74.5
+2017-04-01,Crew/Engineer Availability,1.9
+2017-04-01,Equipment Availability,0.6
+2017-04-01,Human Factor,1.3
+2017-04-01,Mechanical,7.6
+2017-04-01,Unpreventable,1.5
+2017-05-01,AMTRAK,2.7
+2017-05-01,Crew/Engineer Availability,31.5
+2017-05-01,Human Factor,3.4
+2017-05-01,Mechanical,45.9
+2017-05-01,Unpreventable,14.4
+2017-06-01,AMTRAK,2.9
+2017-06-01,Crew/Engineer Availability,28.1
+2017-06-01,Equipment Availability,2.2
+2017-06-01,Human Factor,10.8
+2017-06-01,Mechanical,39.6
+2017-06-01,Unpreventable,13.7
+2017-07-01,AMTRAK,11
+2017-07-01,Crew/Engineer Availability,35.9
+2017-07-01,Equipment Availability,0.6
+2017-07-01,Human Factor,2.3
+2017-07-01,Mechanical,13.3
+2017-07-01,Unpreventable,5.4
+2017-08-01,AMTRAK,4.6
+2017-08-01,Crew/Engineer Availability,58.8
+2017-08-01,Equipment Availability,3.1
+2017-08-01,Human Factor,1.7
+2017-08-01,Mechanical,16.9
+2017-08-01,Unpreventable,1
+2017-09-01,AMTRAK,10.9
+2017-09-01,Crew/Engineer Availability,22.2
+2017-09-01,Equipment Availability,1.1
+2017-09-01,Human Factor,3.4
+2017-09-01,Mechanical,16.2
+2017-09-01,Unpreventable,31.6
+2017-10-01,Crew/Engineer Availability,46.4
+2017-10-01,Equipment Availability,2.9
+2017-10-01,Human Factor,4
+2017-10-01,Mechanical,12.2
+2017-10-01,Unpreventable,32
+2017-11-01,AMTRAK,5.6
+2017-11-01,Crew/Engineer Availability,27.4
+2017-11-01,Equipment Availability,7.3
+2017-11-01,Human Factor,7.3
+2017-11-01,Mechanical,38
+2017-11-01,Unpreventable,9.5
+2017-12-01,AMTRAK,4.9
+2017-12-01,Crew/Engineer Availability,31.7
+2017-12-01,Equipment Availability,11
+2017-12-01,Human Factor,6.1
+2017-12-01,Mechanical,19.7
+2017-12-01,Unpreventable,12
+2018-01-01,AMTRAK,19.3
+2018-01-01,Crew/Engineer Availability,9.4
+2018-01-01,Equipment Availability,38.3
+2018-01-01,Human Factor,2.1
+2018-01-01,Mechanical,17.4
+2018-01-01,Unpreventable,8.6
+2018-02-01,AMTRAK,17.7
+2018-02-01,Crew/Engineer Availability,20.4
+2018-02-01,Equipment Availability,5
+2018-02-01,Human Factor,7.2
+2018-02-01,Mechanical,31.5
+2018-02-01,Unpreventable,12.2
+2018-03-01,AMTRAK,27.8
+2018-03-01,Crew/Engineer Availability,7.5
+2018-03-01,Equipment Availability,0.2
+2018-03-01,Human Factor,2.1
+2018-03-01,Mechanical,5.4
+2018-03-01,Unpreventable,47.2
+2018-04-01,AMTRAK,11.2
+2018-04-01,Crew/Engineer Availability,43.2
+2018-04-01,Equipment Availability,4.3
+2018-04-01,Human Factor,5.3
+2018-04-01,Mechanical,15.5
+2018-04-01,Unpreventable,16.5
+2018-05-01,AMTRAK,8.2
+2018-05-01,Crew/Engineer Availability,29.7
+2018-05-01,Equipment Availability,4.2
+2018-05-01,Human Factor,4.2
+2018-05-01,Mechanical,17
+2018-05-01,Unpreventable,20.9
+2018-06-01,AMTRAK,3.8
+2018-06-01,Crew/Engineer Availability,56.7
+2018-06-01,Equipment Availability,3.4
+2018-06-01,Human Factor,2.1
+2018-06-01,Mechanical,21.6
+2018-06-01,Unpreventable,5.2
+2018-07-01,AMTRAK,2.6
+2018-07-01,Crew/Engineer Availability,45.5
+2018-07-01,Equipment Availability,18.5
+2018-07-01,Human Factor,6.5
+2018-07-01,Mechanical,15.1
+2018-07-01,Unpreventable,6.8
+2018-08-01,AMTRAK,2.1
+2018-08-01,Crew/Engineer Availability,39.1
+2018-08-01,Equipment Availability,30.1
+2018-08-01,Human Factor,2.1
+2018-08-01,Mechanical,10.5
+2018-08-01,Unpreventable,11.3
+2018-09-01,AMTRAK,12.4
+2018-09-01,Crew/Engineer Availability,31.4
+2018-09-01,Equipment Availability,23
+2018-09-01,Human Factor,7.6
+2018-09-01,Mechanical,15.4
+2018-09-01,Unpreventable,7.8
+2018-10-01,AMTRAK,7.4
+2018-10-01,Crew/Engineer Availability,23.4
+2018-10-01,Equipment Availability,17
+2018-10-01,Human Factor,3.3
+2018-10-01,Mechanical,19.2
+2018-10-01,Unpreventable,10.4
+2018-11-01,AMTRAK,16.7
+2018-11-01,Crew/Engineer Availability,2.9
+2018-11-01,Equipment Availability,18.5
+2018-11-01,Human Factor,4.4
+2018-11-01,Mechanical,11.4
+2018-11-01,Unpreventable,39.6
+2018-12-01,AMTRAK,0.2
+2018-12-01,Crew/Engineer Availability,15.2
+2018-12-01,Equipment Availability,57.1
+2018-12-01,Human Factor,0.9
+2018-12-01,Mechanical,17.3
+2018-12-01,Unpreventable,4.6
+2019-01-01,AMTRAK,5.7
+2019-01-01,Crew/Engineer Availability,4.7
+2019-01-01,Equipment Availability,49.5
+2019-01-01,Human Factor,0.5
+2019-01-01,Mechanical,25.9
+2019-01-01,Unpreventable,7.5
+2019-02-01,AMTRAK,4.5
+2019-02-01,Crew/Engineer Availability,17.4
+2019-02-01,Equipment Availability,5.3
+2019-02-01,Human Factor,2
+2019-02-01,Mechanical,16.9
+2019-02-01,Unpreventable,16.6
+2019-03-01,AMTRAK,21.2
+2019-03-01,Crew/Engineer Availability,30.7
+2019-03-01,Equipment Availability,7.9
+2019-03-01,Human Factor,3.7
+2019-03-01,Mechanical,18.5
+2019-03-01,Unpreventable,2.6
+2019-04-01,AMTRAK,2.2
+2019-04-01,Crew/Engineer Availability,29
+2019-04-01,Equipment Availability,2.2
+2019-04-01,Human Factor,4.9
+2019-04-01,Mechanical,20.2
+2019-04-01,Unpreventable,38.3
+2019-05-01,AMTRAK,4.4
+2019-05-01,Crew/Engineer Availability,41
+2019-05-01,Equipment Availability,12.2
+2019-05-01,Human Factor,3.1
+2019-05-01,Mechanical,15.7
+2019-05-01,Unpreventable,11.4
+2019-06-01,AMTRAK,8.6
+2019-06-01,Crew/Engineer Availability,64.5
+2019-06-01,Equipment Availability,6.2
+2019-06-01,Human Factor,2
+2019-06-01,Mechanical,10.3
+2019-06-01,Unpreventable,6.7
+2019-07-01,AMTRAK,6.4
+2019-07-01,Crew/Engineer Availability,32.4
+2019-07-01,Equipment Availability,13.6
+2019-07-01,Human Factor,2.7
+2019-07-01,Mechanical,20.2
+2019-07-01,Unpreventable,20.2
+2019-08-01,AMTRAK,1.2
+2019-08-01,Crew/Engineer Availability,53
+2019-08-01,Equipment Availability,7.2
+2019-08-01,Human Factor,4
+2019-08-01,Mechanical,16.3
+2019-08-01,Unpreventable,15.1
+2019-09-01,AMTRAK,0.3
+2019-09-01,Crew/Engineer Availability,59.3
+2019-09-01,Equipment Availability,3.9
+2019-09-01,Human Factor,7.5
+2019-09-01,Mechanical,14
+2019-09-01,Unpreventable,6.5
+2019-10-01,AMTRAK,4.7
+2019-10-01,Crew/Engineer Availability,31.2
+2019-10-01,Equipment Availability,2.3
+2019-10-01,Human Factor,8.4
+2019-10-01,Mechanical,22.3
+2019-10-01,Unpreventable,14.9
+2019-11-01,AMTRAK,4.1
+2019-11-01,Crew/Engineer Availability,48
+2019-11-01,Equipment Availability,5.3
+2019-11-01,Human Factor,2.5
+2019-11-01,Mechanical,15.6
+2019-11-01,Unpreventable,18
+2019-12-01,Crew/Engineer Availability,52.7
+2019-12-01,Equipment Availability,2.2
+2019-12-01,Human Factor,3.8
+2019-12-01,Mechanical,15.2
+2019-12-01,Unpreventable,20
+2020-01-01,AMTRAK,2.9
+2020-01-01,Crew/Engineer Availability,15.2
+2020-01-01,Equipment Availability,10.3
+2020-01-01,Human Factor,3.3
+2020-01-01,Mechanical,30.9
+2020-01-01,Unpreventable,18.5
+2020-02-01,AMTRAK,43
+2020-02-01,Crew/Engineer Availability,1.6
+2020-02-01,Equipment Availability,2.2
+2020-02-01,Human Factor,5.9
+2020-02-01,Mechanical,23.1
+2020-02-01,Unpreventable,17.2
+2020-03-01,AMTRAK,23.7
+2020-03-01,Crew/Engineer Availability,33
+2020-03-01,Equipment Availability,3.3
+2020-03-01,Human Factor,4.4
+2020-03-01,Mechanical,16.7
+2020-03-01,Unpreventable,1.9
+2020-04-01,AMTRAK,0.3
+2020-04-01,Crew/Engineer Availability,79.2
+2020-04-01,Human Factor,0.8
+2020-04-01,Mechanical,3.3
+2020-04-01,Unpreventable,8.5
+2020-05-01,Crew/Engineer Availability,81.6
+2020-05-01,Equipment Availability,2
+2020-05-01,Human Factor,1.7
+2020-05-01,Mechanical,6
+2020-05-01,Unpreventable,6.7
+2020-06-01,AMTRAK,3.2
+2020-06-01,Crew/Engineer Availability,46
+2020-06-01,Human Factor,3.2
+2020-06-01,Mechanical,11.1
+2020-06-01,Unpreventable,17.5
+2020-07-01,AMTRAK,10.4
+2020-07-01,Crew/Engineer Availability,36.1
+2020-07-01,Equipment Availability,8.9
+2020-07-01,Human Factor,1
+2020-07-01,Mechanical,11.6
+2020-07-01,Unpreventable,14.7
+2020-08-01,Crew/Engineer Availability,22.5
+2020-08-01,Equipment Availability,1.4
+2020-08-01,Human Factor,0.7
+2020-08-01,Mechanical,6.1
+2020-08-01,Unpreventable,67
+2020-09-01,AMTRAK,2.1
+2020-09-01,Crew/Engineer Availability,27.1
+2020-09-01,Equipment Availability,11.2
+2020-09-01,Human Factor,5.3
+2020-09-01,Mechanical,34.6
+2020-09-01,Unpreventable,7.4
+2020-10-01,AMTRAK,3.1
+2020-10-01,Crew/Engineer Availability,21.4
+2020-10-01,Equipment Availability,0.5
+2020-10-01,Human Factor,8.7
+2020-10-01,Mechanical,32.7
+2020-10-01,Unpreventable,23.5
+2020-11-01,AMTRAK,0.7
+2020-11-01,Crew/Engineer Availability,19.7
+2020-11-01,Equipment Availability,3.2
+2020-11-01,Human Factor,2.1
+2020-11-01,Mechanical,19.3
+2020-11-01,Unpreventable,12.5
+2020-12-01,AMTRAK,1.7
+2020-12-01,Crew/Engineer Availability,6.8
+2020-12-01,Equipment Availability,14.4
+2020-12-01,Human Factor,3.3
+2020-12-01,Mechanical,19.2
+2020-12-01,Unpreventable,48.3
+2021-01-01,AMTRAK,1.7
+2021-01-01,Crew/Engineer Availability,0.9
+2021-01-01,Equipment Availability,13.6
+2021-01-01,Human Factor,22.1
+2021-01-01,Mechanical,51.5
+2021-01-01,Unpreventable,7.2
+2021-02-01,AMTRAK,29.3
+2021-02-01,Crew/Engineer Availability,3
+2021-02-01,Equipment Availability,11
+2021-02-01,Human Factor,4
+2021-02-01,Mechanical,27.4
+2021-02-01,Unpreventable,20.4
+2021-03-01,AMTRAK,2.5
+2021-03-01,Crew/Engineer Availability,2.5
+2021-03-01,Equipment Availability,6.4
+2021-03-01,Human Factor,11.5
+2021-03-01,Mechanical,52.2
+2021-03-01,Unpreventable,22.9
+2021-04-01,AMTRAK,5.8
+2021-04-01,Crew/Engineer Availability,1.3
+2021-04-01,Equipment Availability,7.1
+2021-04-01,Human Factor,9
+2021-04-01,Mechanical,59
+2021-04-01,Unpreventable,9.6
+2021-05-01,AMTRAK,2.4
+2021-05-01,Equipment Availability,4.2
+2021-05-01,Human Factor,1.4
+2021-05-01,Mechanical,45.3
+2021-05-01,Unpreventable,40.6
+2021-06-01,AMTRAK,2.3
+2021-06-01,Crew/Engineer Availability,2.8
+2021-06-01,Equipment Availability,5.1
+2021-06-01,Human Factor,7.9
+2021-06-01,Mechanical,63.3
+2021-06-01,Unpreventable,15.8
+2021-07-01,AMTRAK,6.1
+2021-07-01,Crew/Engineer Availability,1.3
+2021-07-01,Equipment Availability,2.6
+2021-07-01,Human Factor,5.5
+2021-07-01,Mechanical,35.2
+2021-07-01,Unpreventable,41
+2021-08-01,AMTRAK,1.3
+2021-08-01,Crew/Engineer Availability,4.1
+2021-08-01,Equipment Availability,10.8
+2021-08-01,Human Factor,4.1
+2021-08-01,Mechanical,31.4
+2021-08-01,Unpreventable,31.4
+2021-09-01,AMTRAK,17.1
+2021-09-01,Crew/Engineer Availability,0.6
+2021-09-01,Equipment Availability,1.7
+2021-09-01,Human Factor,4
+2021-09-01,Mechanical,18.2
+2021-09-01,Unpreventable,55.9
+2021-10-01,AMTRAK,7.1
+2021-10-01,Crew/Engineer Availability,1.3
+2021-10-01,Equipment Availability,3.6
+2021-10-01,Human Factor,6.5
+2021-10-01,Mechanical,34.3
+2021-10-01,Unpreventable,43
+2021-11-01,AMTRAK,1.6
+2021-11-01,Crew/Engineer Availability,3.3
+2021-11-01,Equipment Availability,2.9
+2021-11-01,Human Factor,10.7
+2021-11-01,Mechanical,43.2
+2021-11-01,Unpreventable,28.8
+2021-12-01,AMTRAK,1.3
+2021-12-01,Crew/Engineer Availability,41.3
+2021-12-01,Equipment Availability,4
+2021-12-01,Human Factor,8.3
+2021-12-01,Mechanical,32.7
+2021-12-01,Unpreventable,8.3
+2022-01-01,AMTRAK,4.5
+2022-01-01,Crew/Engineer Availability,35.4
+2022-01-01,Equipment Availability,2.5
+2022-01-01,Human Factor,7.1
+2022-01-01,Mechanical,31.8
+2022-01-01,Unpreventable,12.4
+2022-02-01,AMTRAK,22.1
+2022-02-01,Crew/Engineer Availability,6.4
+2022-02-01,Equipment Availability,3.7
+2022-02-01,Human Factor,4.7
+2022-02-01,Mechanical,35.1
+2022-02-01,Unpreventable,26.8
+2022-03-01,AMTRAK,1.8
+2022-03-01,Human Factor,4.7
+2022-03-01,Mechanical,27.3
+2022-03-01,Unpreventable,61.9
+2022-04-01,AMTRAK,6.5
+2022-04-01,Crew/Engineer Availability,2.8
+2022-04-01,Equipment Availability,1.9
+2022-04-01,Human Factor,6.5
+2022-04-01,Mechanical,68.2
+2022-04-01,Unpreventable,12.1
+2022-05-01,AMTRAK,51.4
+2022-05-01,Crew/Engineer Availability,0.8
+2022-05-01,Equipment Availability,1.2
+2022-05-01,Human Factor,8.3
+2022-05-01,Mechanical,31.6
+2022-05-01,Unpreventable,2.8
+2022-06-01,AMTRAK,1.6
+2022-06-01,Crew/Engineer Availability,60.6
+2022-06-01,Equipment Availability,0.2
+2022-06-01,Human Factor,4.5
+2022-06-01,Mechanical,23.9
+2022-06-01,Unpreventable,5.4
+2022-07-01,AMTRAK,8.7
+2022-07-01,Crew/Engineer Availability,3
+2022-07-01,Equipment Availability,3.5
+2022-07-01,Human Factor,8.3
+2022-07-01,Mechanical,62.2
+2022-07-01,Unpreventable,12.6
+2022-08-01,AMTRAK,22.4
+2022-08-01,Crew/Engineer Availability,0.3
+2022-08-01,Equipment Availability,4.8
+2022-08-01,Human Factor,6.8
+2022-08-01,Mechanical,36.3
+2022-08-01,Unpreventable,21.9
+2022-09-01,AMTRAK,9
+2022-09-01,Equipment Availability,3.8
+2022-09-01,Human Factor,6.4
+2022-09-01,Mechanical,47.4
+2022-09-01,Unpreventable,18.4
+2022-10-01,AMTRAK,9.4
+2022-10-01,Crew/Engineer Availability,0.5
+2022-10-01,Equipment Availability,4.9
+2022-10-01,Human Factor,6.4
+2022-10-01,Mechanical,59.1
+2022-10-01,Unpreventable,13.3
+2022-11-01,AMTRAK,12.6
+2022-11-01,Crew/Engineer Availability,5
+2022-11-01,Equipment Availability,1.9
+2022-11-01,Human Factor,14.5
+2022-11-01,Mechanical,40.3
+2022-11-01,Unpreventable,8.8
+2022-12-01,AMTRAK,7.8
+2022-12-01,Crew/Engineer Availability,2.1
+2022-12-01,Equipment Availability,0.5
+2022-12-01,Human Factor,5.7
+2022-12-01,Mechanical,53.4
+2022-12-01,Unpreventable,20.2
+2023-01-01,AMTRAK,4.8
+2023-01-01,Equipment Availability,2.9
+2023-01-01,Human Factor,8.7
+2023-01-01,Mechanical,71.2
+2023-01-01,Unpreventable,10.6
+2023-02-01,AMTRAK,10.2
+2023-02-01,Human Factor,4
+2023-02-01,Mechanical,37.9
+2023-02-01,Unpreventable,25.4
+2023-03-01,AMTRAK,22.4
+2023-03-01,Equipment Availability,0.4
+2023-03-01,Human Factor,4.6
+2023-03-01,Mechanical,34.4
+2023-03-01,Unpreventable,27.8
+2023-04-01,AMTRAK,8.7
+2023-04-01,Human Factor,20.4
+2023-04-01,Mechanical,55.3
+2023-04-01,Unpreventable,12.6
+2023-05-01,AMTRAK,77.7
+2023-05-01,Equipment Availability,0.7
+2023-05-01,Human Factor,1
+2023-05-01,Mechanical,17.6
+2023-05-01,Unpreventable,1.7
+2023-06-01,AMTRAK,3.6
+2023-06-01,Equipment Availability,1.1
+2023-06-01,Human Factor,6.1
+2023-06-01,Mechanical,27.3
+2023-06-01,Unpreventable,24.1
+2023-07-01,AMTRAK,43.7
+2023-07-01,Crew/Engineer Availability,0.2
+2023-07-01,Equipment Availability,1.5
+2023-07-01,Human Factor,2.2
+2023-07-01,Mechanical,21.4
+2023-07-01,Unpreventable,7.3
+2023-08-01,AMTRAK,2.3
+2023-08-01,Human Factor,5.7
+2023-08-01,Mechanical,34.1
+2023-08-01,Unpreventable,55.5
+2023-09-01,AMTRAK,5.3
+2023-09-01,Equipment Availability,1.3
+2023-09-01,Human Factor,6.4
+2023-09-01,Mechanical,30.1
+2023-09-01,Unpreventable,29.5
+2023-10-01,AMTRAK,28.5
+2023-10-01,Equipment Availability,9.4
+2023-10-01,Human Factor,3.7
+2023-10-01,Mechanical,39.6
+2023-10-01,Unpreventable,13.8
+2023-11-01,AMTRAK,5.8
+2023-11-01,Equipment Availability,3.1
+2023-11-01,Human Factor,6.9
+2023-11-01,Mechanical,57.5
+2023-11-01,Unpreventable,25.1
+2023-12-01,AMTRAK,18.6
+2023-12-01,Equipment Availability,0.3
+2023-12-01,Human Factor,34.6
+2023-12-01,Mechanical,29.5
+2023-12-01,Unpreventable,15.4
+2024-01-01,AMTRAK,37.8
+2024-01-01,Equipment Availability,1.9
+2024-01-01,Human Factor,6
+2024-01-01,Mechanical,32.9
+2024-01-01,Unpreventable,18.5
+2024-02-01,AMTRAK,15.8
+2024-02-01,Crew/Engineer Availability,1.1
+2024-02-01,Equipment Availability,3.3
+2024-02-01,Human Factor,4.3
+2024-02-01,Mechanical,57.6
+2024-02-01,Unpreventable,7.6
+2024-03-01,AMTRAK,28.1
+2024-03-01,Equipment Availability,1.9
+2024-03-01,Human Factor,10.5
+2024-03-01,Mechanical,47.6
+2024-03-01,Unpreventable,11.4
+2024-04-01,AMTRAK,23.7
+2024-04-01,Equipment Availability,1.9
+2024-04-01,Human Factor,4
+2024-04-01,Mechanical,28.1
+2024-04-01,Unpreventable,14.2
+2024-05-01,AMTRAK,48.6
+2024-05-01,Equipment Availability,5.5
+2024-05-01,Human Factor,7.1
+2024-05-01,Mechanical,26.8
+2024-05-01,Unpreventable,7.3
+2024-06-01,AMTRAK,63.2
+2024-06-01,Crew/Engineer Availability,1.5
+2024-06-01,Equipment Availability,2.4
+2024-06-01,Human Factor,2.3
+2024-06-01,Mechanical,21.6
+2024-06-01,Unpreventable,7
+2024-07-01,AMTRAK,8.6
+2024-07-01,Equipment Availability,2.1
+2024-07-01,Human Factor,4.8
+2024-07-01,Mechanical,29.3
+2024-07-01,Unpreventable,24.8
+2024-08-01,AMTRAK,10.9
+2024-08-01,Equipment Availability,3.6
+2024-08-01,Human Factor,2.2
+2024-08-01,Mechanical,26
+2024-08-01,Unpreventable,52.5
+2024-09-01,AMTRAK,15.7
+2024-09-01,Equipment Availability,4.5
+2024-09-01,Human Factor,8.1
+2024-09-01,Mechanical,58.6
+2024-09-01,Unpreventable,7.1
+2024-10-01,AMTRAK,5
+2024-10-01,Crew/Engineer Availability,0.9
+2024-10-01,Equipment Availability,5
+2024-10-01,Human Factor,14.2
+2024-10-01,Mechanical,52.3
+2024-10-01,Unpreventable,19.7
+2024-11-01,AMTRAK,4.1
+2024-11-01,Equipment Availability,2.9
+2024-11-01,Human Factor,12.4
+2024-11-01,Mechanical,43.5
+2024-11-01,Unpreventable,22.4
+2024-12-01,AMTRAK,36
+2024-12-01,Crew/Engineer Availability,1.8
+2024-12-01,Equipment Availability,1.3
+2024-12-01,Human Factor,5.2
+2024-12-01,Mechanical,31.2
+2024-12-01,Unpreventable,12.1
+2025-01-01,AMTRAK,1.3
+2025-01-01,Equipment Availability,3.6
+2025-01-01,Human Factor,5.8
+2025-01-01,Mechanical,62.5
+2025-01-01,Unpreventable,17.4
+2025-02-01,AMTRAK,17.1
+2025-02-01,Crew/Engineer Availability,3.7
+2025-02-01,Equipment Availability,2.4
+2025-02-01,Human Factor,4.9
+2025-02-01,Mechanical,42.9
+2025-02-01,Unpreventable,9.4
+2025-03-01,AMTRAK,17.8
+2025-03-01,Crew/Engineer Availability,3
+2025-03-01,Equipment Availability,2
+2025-03-01,Human Factor,10.9
+2025-03-01,Mechanical,34.7
+2025-03-01,Unpreventable,28.7
+2025-04-01,AMTRAK,3.5
+2025-04-01,Crew/Engineer Availability,13.6
+2025-04-01,Equipment Availability,0.5
+2025-04-01,Human Factor,8.6
+2025-04-01,Mechanical,48.5
+2025-04-01,Unpreventable,20.7
+2025-05-01,AMTRAK,8.8
+2025-05-01,Crew/Engineer Availability,9.2
+2025-05-01,Equipment Availability,10
+2025-05-01,Human Factor,6
+2025-05-01,Mechanical,41.8
+2025-05-01,Unpreventable,22.3
+2025-06-01,AMTRAK,3.1
+2025-06-01,Crew/Engineer Availability,4.4
+2025-06-01,Equipment Availability,17.4
+2025-06-01,Human Factor,1.9
+2025-06-01,Mechanical,42.2
+2025-06-01,Unpreventable,25.4
+2025-07-01,AMTRAK,2.6
+2025-07-01,Crew/Engineer Availability,9.4
+2025-07-01,Equipment Availability,23.8
+2025-07-01,Human Factor,7.3
+2025-07-01,Mechanical,38.8
+2025-07-01,Unpreventable,16.8
+2025-08-01,AMTRAK,0.7
+2025-08-01,Crew/Engineer Availability,41.7
+2025-08-01,Equipment Availability,7.5
+2025-08-01,Human Factor,4.4
+2025-08-01,Mechanical,33
+2025-08-01,Unpreventable,7.5
+2025-09-01,AMTRAK,3.2
+2025-09-01,Crew/Engineer Availability,13
+2025-09-01,Equipment Availability,1.9
+2025-09-01,Human Factor,33.4
+2025-09-01,Mechanical,40.3
+2025-09-01,Unpreventable,3.6
+2025-10-01,AMTRAK,3.9
+2025-10-01,Crew/Engineer Availability,18.3
+2025-10-01,Equipment Availability,9.8
+2025-10-01,Human Factor,5.5
+2025-10-01,Mechanical,25.2
+2025-10-01,Unpreventable,29.7
+2025-11-01,AMTRAK,38.7
+2025-11-01,Crew/Engineer Availability,6.8
+2025-11-01,Equipment Availability,4.8
+2025-11-01,Human Factor,2
+2025-11-01,Mechanical,34.8
+2025-11-01,Unpreventable,6.3
+2025-12-01,AMTRAK,5.3
+2025-12-01,Crew/Engineer Availability,15.1
+2025-12-01,Equipment Availability,23.6
+2025-12-01,Human Factor,6.5
+2025-12-01,Mechanical,27
+2025-12-01,Unpreventable,18
+2026-01-01,AMTRAK,4.9
+2026-01-01,Crew/Engineer Availability,5.5
+2026-01-01,Equipment Availability,15.4
+2026-01-01,Human Factor,2.9
+2026-01-01,Mechanical,49.7
+2026-01-01,Unpreventable,18.8
+2026-02-01,AMTRAK,20.7
+2026-02-01,Crew/Engineer Availability,38.6
+2026-02-01,Equipment Availability,1.7
+2026-02-01,Human Factor,2.2
+2026-02-01,Mechanical,20.1
+2026-02-01,Unpreventable,15.2
+2026-03-01,AMTRAK,20.2
+2026-03-01,Crew/Engineer Availability,41.2
+2026-03-01,Equipment Availability,1.7
+2026-03-01,Human Factor,2.6
+2026-03-01,Mechanical,18
+2026-03-01,Unpreventable,9.9
+2026-04-01,AMTRAK,3.1
+2026-04-01,Crew/Engineer Availability,26.7
+2026-04-01,Equipment Availability,9.4
+2026-04-01,Human Factor,3.1
+2026-04-01,Mechanical,46.5
+2026-04-01,Unpreventable,9
+2026-05-01,AMTRAK,69
+2026-05-01,Crew/Engineer Availability,2.5
+2026-05-01,Equipment Availability,1.5
+2026-05-01,Human Factor,1.1
+2026-05-01,Mechanical,15.8
+2026-05-01,Unpreventable,7.8
+2026-06-01,AMTRAK,29.3
+2026-06-01,Crew/Engineer Availability,0.9
+2026-06-01,Equipment Availability,3.2
+2026-06-01,Human Factor,3.9
+2026-06-01,Mechanical,38.6
+2026-06-01,Unpreventable,14.3
+2026-07-01,AMTRAK,2.9
+2026-07-01,Crew/Engineer Availability,7.9
+2026-07-01,Equipment Availability,5.2
+2026-07-01,Human Factor,1
+2026-07-01,Mechanical,20.5
+2026-07-01,Unpreventable,60.5

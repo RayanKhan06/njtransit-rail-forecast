@@ -1,0 +1,852 @@
+      YEAR,MONTH          ,CATEGORY                                                    ,CANCEL_COUNT,CANCEL_TOTAL,CANCEL_PERCENTAGE
+----------,---------------,------------------------------------------------------------,------------,------------,-----------------
+      2017,APRIL          ,Carryover/Other                                             ,          54,         134,             40.3
+      2017,APRIL          ,Crew/Engineer Availability                                  ,          10,         134,              7.5
+      2017,APRIL          ,Equipment Availability                                      ,           3,         134,              2.2
+      2017,APRIL          ,Human Factor                                                ,           7,         134,              5.2
+      2017,APRIL          ,Infrastructure Engineering                                  ,           3,         134,              2.2
+      2017,APRIL          ,Mechanical                                                  ,          40,         134,             29.9
+      2017,APRIL          ,Other                                                       ,           3,         134,              2.2
+      2017,APRIL          ,Other Railroads                                             ,           6,         134,              4.5
+      2017,APRIL          ,Unpreventable                                               ,           8,         134,                6
+      2017,AUGUST         ,Crew/Engineer Availability                                  ,         243,         394,             61.7
+      2017,AUGUST         ,Equipment Availability                                      ,          13,         394,              3.3
+      2017,AUGUST         ,Human Factor                                                ,           7,         394,              1.8
+      2017,AUGUST         ,Infrastructure Engineering                                  ,          54,         394,             13.7
+      2017,AUGUST         ,Mechanical                                                  ,          70,         394,             17.8
+      2017,AUGUST         ,Other                                                       ,           1,         394,               .3
+      2017,AUGUST         ,Other Railroads                                             ,           2,         394,               .5
+      2017,AUGUST         ,Unpreventable                                               ,           4,         394,                1
+      2017,DECEMBER       ,Crew/Engineer Availability                                  ,          98,         294,             33.3
+      2017,DECEMBER       ,Equipment Availability                                      ,          34,         294,             11.6
+      2017,DECEMBER       ,Human Factor                                                ,          19,         294,              6.5
+      2017,DECEMBER       ,Infrastructure Engineering                                  ,          13,         294,              4.4
+      2017,DECEMBER       ,Mechanical                                                  ,          61,         294,             20.7
+      2017,DECEMBER       ,Other Railroads                                             ,          32,         294,             10.9
+      2017,DECEMBER       ,Unpreventable                                               ,          37,         294,             12.6
+      2017,FEBRUARY       ,Carryover/Other                                             ,           3,         151,                2
+      2017,FEBRUARY       ,Crew/Engineer Availability                                  ,          17,         151,             11.3
+      2017,FEBRUARY       ,Equipment Availability                                      ,           8,         151,              5.3
+      2017,FEBRUARY       ,Human Factor                                                ,          22,         151,             14.6
+      2017,FEBRUARY       ,Mechanical                                                  ,          39,         151,             25.8
+      2017,FEBRUARY       ,Unpreventable                                               ,          62,         151,             41.1
+      2017,JANUARY        ,Crew/Engineer Availability                                  ,           2,         113,              1.8
+      2017,JANUARY        ,Equipment Availability                                      ,           1,         113,               .9
+      2017,JANUARY        ,Human Factor                                                ,           8,         113,              7.1
+      2017,JANUARY        ,Mechanical                                                  ,          56,         113,             49.6
+      2017,JANUARY        ,Other                                                       ,           1,         113,               .9
+      2017,JANUARY        ,Other Railroads                                             ,          31,         113,             27.4
+      2017,JANUARY        ,Unpreventable                                               ,          14,         113,             12.4
+      2017,JULY           ,Carryover/Other                                             ,          12,         315,              3.8
+      2017,JULY           ,Crew/Engineer Availability                                  ,         127,         315,             40.3
+      2017,JULY           ,Equipment Availability                                      ,           2,         315,               .6
+      2017,JULY           ,Human Factor                                                ,           8,         315,              2.5
+      2017,JULY           ,Infrastructure Engineering                                  ,          93,         315,             29.5
+      2017,JULY           ,Mechanical                                                  ,          47,         315,             14.9
+      2017,JULY           ,Other Railroads                                             ,           7,         315,              2.2
+      2017,JULY           ,Unpreventable                                               ,          19,         315,                6
+      2017,JUNE           ,Crew/Engineer Availability                                  ,          39,         135,             28.9
+      2017,JUNE           ,Equipment Availability                                      ,           3,         135,              2.2
+      2017,JUNE           ,Human Factor                                                ,          15,         135,             11.1
+      2017,JUNE           ,Infrastructure Engineering                                  ,           1,         135,               .7
+      2017,JUNE           ,Mechanical                                                  ,          55,         135,             40.7
+      2017,JUNE           ,Other Railroads                                             ,           3,         135,              2.2
+      2017,JUNE           ,Unpreventable                                               ,          19,         135,             14.1
+      2017,MARCH          ,Crew/Engineer Availability                                  ,          20,         103,             19.4
+      2017,MARCH          ,Equipment Availability                                      ,           2,         103,              1.9
+      2017,MARCH          ,Human Factor                                                ,           7,         103,              6.8
+      2017,MARCH          ,Infrastructure Engineering                                  ,           3,         103,              2.9
+      2017,MARCH          ,Mechanical                                                  ,          26,         103,             25.2
+      2017,MARCH          ,Other                                                       ,           6,         103,              5.8
+      2017,MARCH          ,Unpreventable                                               ,          39,         103,             37.9
+      2017,MAY            ,Crew/Engineer Availability                                  ,          46,         142,             32.4
+      2017,MAY            ,Human Factor                                                ,           5,         142,              3.5
+      2017,MAY            ,Infrastructure Engineering                                  ,           1,         142,               .7
+      2017,MAY            ,Mechanical                                                  ,          67,         142,             47.2
+      2017,MAY            ,Other Railroads                                             ,           2,         142,              1.4
+      2017,MAY            ,Unpreventable                                               ,          21,         142,             14.8
+      2017,NOVEMBER       ,Carryover/Other                                             ,           4,         169,              2.4
+      2017,NOVEMBER       ,Crew/Engineer Availability                                  ,          49,         169,               29
+      2017,NOVEMBER       ,Equipment Availability                                      ,          13,         169,              7.7
+      2017,NOVEMBER       ,Human Factor                                                ,          13,         169,              7.7
+      2017,NOVEMBER       ,Infrastructure Engineering                                  ,           5,         169,                3
+      2017,NOVEMBER       ,Mechanical                                                  ,          68,         169,             40.2
+      2017,NOVEMBER       ,Unpreventable                                               ,          17,         169,             10.1
+      2017,OCTOBER        ,Carryover/Other                                             ,           7,         278,              2.5
+      2017,OCTOBER        ,Crew/Engineer Availability                                  ,         129,         278,             46.4
+      2017,OCTOBER        ,Equipment Availability                                      ,           8,         278,              2.9
+      2017,OCTOBER        ,Human Factor                                                ,          11,         278,                4
+      2017,OCTOBER        ,Mechanical                                                  ,          34,         278,             12.2
+      2017,OCTOBER        ,Unpreventable                                               ,          89,         278,               32
+      2017,SEPTEMBER      ,Carryover/Other                                             ,          20,         237,              8.4
+      2017,SEPTEMBER      ,Crew/Engineer Availability                                  ,          59,         237,             24.9
+      2017,SEPTEMBER      ,Equipment Availability                                      ,           3,         237,              1.3
+      2017,SEPTEMBER      ,Human Factor                                                ,           9,         237,              3.8
+      2017,SEPTEMBER      ,Infrastructure Engineering                                  ,           5,         237,              2.1
+      2017,SEPTEMBER      ,Mechanical                                                  ,          43,         237,             18.1
+      2017,SEPTEMBER      ,Other Railroads                                             ,          14,         237,              5.9
+      2017,SEPTEMBER      ,Unpreventable                                               ,          84,         237,             35.4
+      2018,APRIL          ,Carryover/Other                                             ,           8,         286,              2.8
+      2018,APRIL          ,Crew/Engineer Availability                                  ,         139,         286,             48.6
+      2018,APRIL          ,Equipment Availability                                      ,          14,         286,              4.9
+      2018,APRIL          ,Human Factor                                                ,          17,         286,              5.9
+      2018,APRIL          ,Infrastructure Engineering                                  ,           4,         286,              1.4
+      2018,APRIL          ,Mechanical                                                  ,          50,         286,             17.5
+      2018,APRIL          ,Other                                                       ,           1,         286,               .3
+      2018,APRIL          ,Unpreventable                                               ,          53,         286,             18.5
+      2018,AUGUST         ,Carryover/Other                                             ,           2,         618,               .3
+      2018,AUGUST         ,Crew/Engineer Availability                                  ,         247,         618,               40
+      2018,AUGUST         ,Equipment Availability                                      ,         190,         618,             30.7
+      2018,AUGUST         ,Human Factor                                                ,          13,         618,              2.1
+      2018,AUGUST         ,Infrastructure Engineering                                  ,           8,         618,              1.3
+      2018,AUGUST         ,Mechanical                                                  ,          66,         618,             10.7
+      2018,AUGUST         ,Other                                                       ,           2,         618,               .3
+      2018,AUGUST         ,Other Railroads                                             ,          14,         618,              2.3
+      2018,AUGUST         ,Technologies                                                ,           5,         618,               .8
+      2018,AUGUST         ,Unpreventable                                               ,          71,         618,             11.5
+      2018,DECEMBER       ,Carryover/Other                                             ,           2,         433,               .5
+      2018,DECEMBER       ,Crew/Engineer Availability                                  ,          66,         433,             15.2
+      2018,DECEMBER       ,Equipment Availability                                      ,         248,         433,             57.3
+      2018,DECEMBER       ,Human Factor                                                ,           4,         433,               .9
+      2018,DECEMBER       ,Infrastructure Engineering                                  ,           7,         433,              1.6
+      2018,DECEMBER       ,Mechanical                                                  ,          75,         433,             17.3
+      2018,DECEMBER       ,Other Railroads                                             ,           2,         433,               .5
+      2018,DECEMBER       ,Technologies                                                ,           9,         433,              2.1
+      2018,DECEMBER       ,Unpreventable                                               ,          20,         433,              4.6
+      2018,FEBRUARY       ,Carryover/Other                                             ,           2,         149,              1.3
+      2018,FEBRUARY       ,Crew/Engineer Availability                                  ,          37,         149,             24.8
+      2018,FEBRUARY       ,Equipment Availability                                      ,           9,         149,                6
+      2018,FEBRUARY       ,Human Factor                                                ,          13,         149,              8.7
+      2018,FEBRUARY       ,Mechanical                                                  ,          57,         149,             38.3
+      2018,FEBRUARY       ,Other                                                       ,           1,         149,               .7
+      2018,FEBRUARY       ,Other Railroads                                             ,           8,         149,              5.4
+      2018,FEBRUARY       ,Unpreventable                                               ,          22,         149,             14.8
+      2018,JANUARY        ,Carryover/Other                                             ,           3,         310,                1
+      2018,JANUARY        ,Crew/Engineer Availability                                  ,          36,         310,             11.6
+      2018,JANUARY        ,Equipment Availability                                      ,         147,         310,             47.4
+      2018,JANUARY        ,Human Factor                                                ,           8,         310,              2.6
+      2018,JANUARY        ,Infrastructure Engineering                                  ,           9,         310,              2.9
+      2018,JANUARY        ,Mechanical                                                  ,          67,         310,             21.6
+      2018,JANUARY        ,Other Railroads                                             ,           7,         310,              2.3
+      2018,JANUARY        ,Unpreventable                                               ,          33,         310,             10.6
+      2018,JULY           ,Carryover/Other                                             ,           1,         343,               .3
+      2018,JULY           ,Crew/Engineer Availability                                  ,         160,         343,             46.6
+      2018,JULY           ,Equipment Availability                                      ,          65,         343,               19
+      2018,JULY           ,Human Factor                                                ,          23,         343,              6.7
+      2018,JULY           ,Infrastructure Engineering                                  ,           6,         343,              1.7
+      2018,JULY           ,Mechanical                                                  ,          53,         343,             15.5
+      2018,JULY           ,Other                                                       ,           4,         343,              1.2
+      2018,JULY           ,Other Railroads                                             ,           7,         343,                2
+      2018,JULY           ,Unpreventable                                               ,          24,         343,                7
+      2018,JUNE           ,Carryover/Other                                             ,           1,         280,               .4
+      2018,JUNE           ,Crew/Engineer Availability                                  ,         165,         280,             58.9
+      2018,JUNE           ,Equipment Availability                                      ,          10,         280,              3.6
+      2018,JUNE           ,Human Factor                                                ,           6,         280,              2.1
+      2018,JUNE           ,Infrastructure Engineering                                  ,           5,         280,              1.8
+      2018,JUNE           ,Mechanical                                                  ,          63,         280,             22.5
+      2018,JUNE           ,Other Railroads                                             ,          15,         280,              5.4
+      2018,JUNE           ,Unpreventable                                               ,          15,         280,              5.4
+      2018,MARCH          ,Carryover/Other                                             ,           7,         695,                1
+      2018,MARCH          ,Crew/Engineer Availability                                  ,          72,         695,             10.4
+      2018,MARCH          ,Equipment Availability                                      ,           2,         695,               .3
+      2018,MARCH          ,Human Factor                                                ,          20,         695,              2.9
+      2018,MARCH          ,Infrastructure Engineering                                  ,           1,         695,               .1
+      2018,MARCH          ,Mechanical                                                  ,          52,         695,              7.5
+      2018,MARCH          ,Other Railroads                                             ,          86,         695,             12.4
+      2018,MARCH          ,Unpreventable                                               ,         455,         695,             65.5
+      2018,MAY            ,Carryover/Other                                             ,           4,         281,              1.4
+      2018,MAY            ,Crew/Engineer Availability                                  ,          91,         281,             32.4
+      2018,MAY            ,Equipment Availability                                      ,          13,         281,              4.6
+      2018,MAY            ,Human Factor                                                ,          13,         281,              4.6
+      2018,MAY            ,Infrastructure Engineering                                  ,          30,         281,             10.7
+      2018,MAY            ,Mechanical                                                  ,          52,         281,             18.5
+      2018,MAY            ,Other Railroads                                             ,          14,         281,                5
+      2018,MAY            ,Unpreventable                                               ,          64,         281,             22.8
+      2018,NOVEMBER       ,Carryover/Other                                             ,           5,         455,              1.1
+      2018,NOVEMBER       ,Crew/Engineer Availability                                  ,          16,         455,              3.5
+      2018,NOVEMBER       ,Equipment Availability                                      ,         101,         455,             22.2
+      2018,NOVEMBER       ,Human Factor                                                ,          24,         455,              5.3
+      2018,NOVEMBER       ,Infrastructure Engineering                                  ,          23,         455,              5.1
+      2018,NOVEMBER       ,Mechanical                                                  ,          62,         455,             13.6
+      2018,NOVEMBER       ,Other Railroads                                             ,           3,         455,               .7
+      2018,NOVEMBER       ,Technologies                                                ,           5,         455,              1.1
+      2018,NOVEMBER       ,Unpreventable                                               ,         216,         455,             47.5
+      2018,OCTOBER        ,Carryover/Other                                             ,           7,         337,              2.1
+      2018,OCTOBER        ,Crew/Engineer Availability                                  ,          85,         337,             25.2
+      2018,OCTOBER        ,Equipment Availability                                      ,          62,         337,             18.4
+      2018,OCTOBER        ,Human Factor                                                ,          12,         337,              3.6
+      2018,OCTOBER        ,Infrastructure Engineering                                  ,           3,         337,               .9
+      2018,OCTOBER        ,Mechanical                                                  ,          70,         337,             20.8
+      2018,OCTOBER        ,Other                                                       ,          54,         337,               16
+      2018,OCTOBER        ,Technologies                                                ,           6,         337,              1.8
+      2018,OCTOBER        ,Unpreventable                                               ,          38,         337,             11.3
+      2018,SEPTEMBER      ,Carryover/Other                                             ,           2,         324,               .6
+      2018,SEPTEMBER      ,Crew/Engineer Availability                                  ,         116,         324,             35.8
+      2018,SEPTEMBER      ,Equipment Availability                                      ,          85,         324,             26.2
+      2018,SEPTEMBER      ,Human Factor                                                ,          28,         324,              8.6
+      2018,SEPTEMBER      ,Infrastructure Engineering                                  ,           1,         324,               .3
+      2018,SEPTEMBER      ,Mechanical                                                  ,          57,         324,             17.6
+      2018,SEPTEMBER      ,Other Railroads                                             ,           5,         324,              1.5
+      2018,SEPTEMBER      ,Technologies                                                ,           1,         324,               .3
+      2018,SEPTEMBER      ,Unpreventable                                               ,          29,         324,                9
+      2019,APRIL          ,Carryover/Other                                             ,           1,         179,               .6
+      2019,APRIL          ,Crew/Engineer Availability                                  ,          53,         179,             29.6
+      2019,APRIL          ,Equipment Availability                                      ,           4,         179,              2.2
+      2019,APRIL          ,Human Factor                                                ,           9,         179,                5
+      2019,APRIL          ,Infrastructure Engineering                                  ,           1,         179,               .6
+      2019,APRIL          ,Mechanical                                                  ,          37,         179,             20.7
+      2019,APRIL          ,Technologies                                                ,           4,         179,              2.2
+      2019,APRIL          ,Unpreventable                                               ,          70,         179,             39.1
+      2019,AUGUST         ,Crew/Engineer Availability                                  ,         133,         248,             53.6
+      2019,AUGUST         ,Equipment Availability                                      ,          18,         248,              7.3
+      2019,AUGUST         ,Human Factor                                                ,          10,         248,                4
+      2019,AUGUST         ,Mechanical                                                  ,          41,         248,             16.5
+      2019,AUGUST         ,Other Railroads                                             ,           1,         248,               .4
+      2019,AUGUST         ,Technologies                                                ,           7,         248,              2.8
+      2019,AUGUST         ,Unpreventable                                               ,          38,         248,             15.3
+      2019,DECEMBER       ,Crew/Engineer Availability                                  ,         166,         315,             52.7
+      2019,DECEMBER       ,Equipment Availability                                      ,           7,         315,              2.2
+      2019,DECEMBER       ,Human Factor                                                ,          12,         315,              3.8
+      2019,DECEMBER       ,Infrastructure Engineering                                  ,           4,         315,              1.3
+      2019,DECEMBER       ,Mechanical                                                  ,          48,         315,             15.2
+      2019,DECEMBER       ,Other Railroads                                             ,           4,         315,              1.3
+      2019,DECEMBER       ,Technologies                                                ,          11,         315,              3.5
+      2019,DECEMBER       ,Unpreventable                                               ,          63,         315,               20
+      2019,FEBRUARY       ,Carryover/Other                                             ,          93,         340,             27.4
+      2019,FEBRUARY       ,Crew/Engineer Availability                                  ,          62,         340,             18.2
+      2019,FEBRUARY       ,Equipment Availability                                      ,          19,         340,              5.6
+      2019,FEBRUARY       ,Human Factor                                                ,           7,         340,              2.1
+      2019,FEBRUARY       ,Infrastructure Engineering                                  ,          29,         340,              8.5
+      2019,FEBRUARY       ,Mechanical                                                  ,          60,         340,             17.6
+      2019,FEBRUARY       ,Technologies                                                ,          11,         340,              3.2
+      2019,FEBRUARY       ,Unpreventable                                               ,          59,         340,             17.4
+      2019,JANUARY        ,Carryover/Other                                             ,           3,         200,              1.5
+      2019,JANUARY        ,Crew/Engineer Availability                                  ,          10,         200,                5
+      2019,JANUARY        ,Equipment Availability                                      ,         105,         200,             52.5
+      2019,JANUARY        ,Human Factor                                                ,           1,         200,               .5
+      2019,JANUARY        ,Mechanical                                                  ,          55,         200,             27.5
+      2019,JANUARY        ,Technologies                                                ,          10,         200,                5
+      2019,JANUARY        ,Unpreventable                                               ,          16,         200,                8
+      2019,JULY           ,Crew/Engineer Availability                                  ,         146,         421,             34.7
+      2019,JULY           ,Equipment Availability                                      ,          61,         421,             14.5
+      2019,JULY           ,Human Factor                                                ,          12,         421,              2.9
+      2019,JULY           ,Infrastructure Engineering                                  ,           2,         421,               .5
+      2019,JULY           ,Mechanical                                                  ,          91,         421,             21.6
+      2019,JULY           ,Other Railroads                                             ,           5,         421,              1.2
+      2019,JULY           ,Technologies                                                ,          13,         421,              3.1
+      2019,JULY           ,Unpreventable                                               ,          91,         421,             21.6
+      2019,JUNE           ,Crew/Engineer Availability                                  ,         262,         371,             70.6
+      2019,JUNE           ,Equipment Availability                                      ,          25,         371,              6.7
+      2019,JUNE           ,Human Factor                                                ,           8,         371,              2.2
+      2019,JUNE           ,Infrastructure Engineering                                  ,           1,         371,               .3
+      2019,JUNE           ,Mechanical                                                  ,          42,         371,             11.3
+      2019,JUNE           ,Technologies                                                ,           6,         371,              1.6
+      2019,JUNE           ,Unpreventable                                               ,          27,         371,              7.3
+      2019,MARCH          ,Carryover/Other                                             ,           3,         149,                2
+      2019,MARCH          ,Crew/Engineer Availability                                  ,          58,         149,             38.9
+      2019,MARCH          ,Equipment Availability                                      ,          15,         149,             10.1
+      2019,MARCH          ,Human Factor                                                ,           7,         149,              4.7
+      2019,MARCH          ,Infrastructure Engineering                                  ,           4,         149,              2.7
+      2019,MARCH          ,Mechanical                                                  ,          35,         149,             23.5
+      2019,MARCH          ,Other                                                       ,           1,         149,               .7
+      2019,MARCH          ,Other Railroads                                             ,           7,         149,              4.7
+      2019,MARCH          ,Technologies                                                ,          14,         149,              9.4
+      2019,MARCH          ,Unpreventable                                               ,           5,         149,              3.4
+      2019,MAY            ,Carryover/Other                                             ,           3,         219,              1.4
+      2019,MAY            ,Crew/Engineer Availability                                  ,          94,         219,             42.9
+      2019,MAY            ,Equipment Availability                                      ,          28,         219,             12.8
+      2019,MAY            ,Human Factor                                                ,           7,         219,              3.2
+      2019,MAY            ,Infrastructure Engineering                                  ,           4,         219,              1.8
+      2019,MAY            ,Mechanical                                                  ,          36,         219,             16.4
+      2019,MAY            ,Other Railroads                                             ,           8,         219,              3.7
+      2019,MAY            ,Technologies                                                ,          13,         219,              5.9
+      2019,MAY            ,Unpreventable                                               ,          26,         219,             11.9
+      2019,NOVEMBER       ,Crew/Engineer Availability                                  ,         117,         234,               50
+      2019,NOVEMBER       ,Equipment Availability                                      ,          13,         234,              5.6
+      2019,NOVEMBER       ,Human Factor                                                ,           6,         234,              2.6
+      2019,NOVEMBER       ,Mechanical                                                  ,          38,         234,             16.2
+      2019,NOVEMBER       ,Other Railroads                                             ,           2,         234,               .9
+      2019,NOVEMBER       ,Technologies                                                ,          14,         234,                6
+      2019,NOVEMBER       ,Unpreventable                                               ,          44,         234,             18.8
+      2019,OCTOBER        ,Carryover/Other                                             ,           1,         205,               .5
+      2019,OCTOBER        ,Crew/Engineer Availability                                  ,          67,         205,             32.7
+      2019,OCTOBER        ,Equipment Availability                                      ,           5,         205,              2.4
+      2019,OCTOBER        ,Human Factor                                                ,          18,         205,              8.8
+      2019,OCTOBER        ,Infrastructure Engineering                                  ,           4,         205,                2
+      2019,OCTOBER        ,Mechanical                                                  ,          48,         205,             23.4
+      2019,OCTOBER        ,Other Railroads                                             ,          20,         205,              9.8
+      2019,OCTOBER        ,Technologies                                                ,          10,         205,              4.9
+      2019,OCTOBER        ,Unpreventable                                               ,          32,         205,             15.6
+      2019,SEPTEMBER      ,Carryover/Other                                             ,           2,         306,               .7
+      2019,SEPTEMBER      ,Crew/Engineer Availability                                  ,         182,         306,             59.5
+      2019,SEPTEMBER      ,Equipment Availability                                      ,          12,         306,              3.9
+      2019,SEPTEMBER      ,Human Factor                                                ,          23,         306,              7.5
+      2019,SEPTEMBER      ,Infrastructure Engineering                                  ,           2,         306,               .7
+      2019,SEPTEMBER      ,Mechanical                                                  ,          43,         306,             14.1
+      2019,SEPTEMBER      ,Other Railroads                                             ,           1,         306,               .3
+      2019,SEPTEMBER      ,Technologies                                                ,          21,         306,              6.9
+      2019,SEPTEMBER      ,Unpreventable                                               ,          20,         306,              6.5
+      2020,APRIL          ,Carryover/Other                                             ,           1,         389,               .3
+      2020,APRIL          ,Crew/Engineer Availability                                  ,         309,         389,             79.4
+      2020,APRIL          ,Human Factor                                                ,           3,         389,               .8
+      2020,APRIL          ,Infrastructure Engineering                                  ,           6,         389,              1.5
+      2020,APRIL          ,Mechanical                                                  ,          13,         389,              3.3
+      2020,APRIL          ,Other                                                       ,          16,         389,              4.1
+      2020,APRIL          ,Other Railroads                                             ,           5,         389,              1.3
+      2020,APRIL          ,Technologies                                                ,           3,         389,               .8
+      2020,APRIL          ,Unpreventable                                               ,          33,         389,              8.5
+      2020,AUGUST         ,Carryover/Other                                             ,           1,        1217,               .1
+      2020,AUGUST         ,Crew/Engineer Availability                                  ,         274,        1217,             22.5
+      2020,AUGUST         ,Equipment Availability                                      ,          17,        1217,              1.4
+      2020,AUGUST         ,Human Factor                                                ,           8,        1217,               .7
+      2020,AUGUST         ,Infrastructure Engineering                                  ,          10,        1217,               .8
+      2020,AUGUST         ,Mechanical                                                  ,          74,        1217,              6.1
+      2020,AUGUST         ,Technologies                                                ,          18,        1217,              1.5
+      2020,AUGUST         ,Unpreventable                                               ,         815,        1217,               67
+      2020,DECEMBER       ,Crew/Engineer Availability                                  ,          37,         534,              6.9
+      2020,DECEMBER       ,Equipment Availability                                      ,          78,         534,             14.6
+      2020,DECEMBER       ,Human Factor                                                ,          18,         534,              3.4
+      2020,DECEMBER       ,Mechanical                                                  ,         104,         534,             19.5
+      2020,DECEMBER       ,Other Railroads                                             ,           4,         534,               .7
+      2020,DECEMBER       ,Technologies                                                ,          31,         534,              5.8
+      2020,DECEMBER       ,Unpreventable                                               ,         262,         534,             49.1
+      2020,FEBRUARY       ,Crew/Engineer Availability                                  ,           3,         106,              2.8
+      2020,FEBRUARY       ,Equipment Availability                                      ,           4,         106,              3.8
+      2020,FEBRUARY       ,Human Factor                                                ,          11,         106,             10.4
+      2020,FEBRUARY       ,Mechanical                                                  ,          43,         106,             40.6
+      2020,FEBRUARY       ,Other Railroads                                             ,           1,         106,               .9
+      2020,FEBRUARY       ,Technologies                                                ,          12,         106,             11.3
+      2020,FEBRUARY       ,Unpreventable                                               ,          32,         106,             30.2
+      2020,JANUARY        ,Crew/Engineer Availability                                  ,          37,         236,             15.7
+      2020,JANUARY        ,Equipment Availability                                      ,          25,         236,             10.6
+      2020,JANUARY        ,Human Factor                                                ,           8,         236,              3.4
+      2020,JANUARY        ,Infrastructure Engineering                                  ,          12,         236,              5.1
+      2020,JANUARY        ,Mechanical                                                  ,          75,         236,             31.8
+      2020,JANUARY        ,Other                                                       ,          23,         236,              9.7
+      2020,JANUARY        ,Technologies                                                ,          11,         236,              4.7
+      2020,JANUARY        ,Unpreventable                                               ,          45,         236,             19.1
+      2020,JULY           ,Crew/Engineer Availability                                  ,         253,         627,             40.4
+      2020,JULY           ,Equipment Availability                                      ,          62,         627,              9.9
+      2020,JULY           ,Human Factor                                                ,           7,         627,              1.1
+      2020,JULY           ,Infrastructure Engineering                                  ,          98,         627,             15.6
+      2020,JULY           ,Mechanical                                                  ,          81,         627,             12.9
+      2020,JULY           ,Other Railroads                                             ,          11,         627,              1.8
+      2020,JULY           ,Technologies                                                ,          12,         627,              1.9
+      2020,JULY           ,Unpreventable                                               ,         103,         627,             16.4
+      2020,JUNE           ,Crew/Engineer Availability                                  ,          58,         122,             47.5
+      2020,JUNE           ,Human Factor                                                ,           4,         122,              3.3
+      2020,JUNE           ,Mechanical                                                  ,          14,         122,             11.5
+      2020,JUNE           ,Other                                                       ,           6,         122,              4.9
+      2020,JUNE           ,Other Railroads                                             ,           9,         122,              7.4
+      2020,JUNE           ,Technologies                                                ,           9,         122,              7.4
+      2020,JUNE           ,Unpreventable                                               ,          22,         122,               18
+      2020,MARCH          ,Crew/Engineer Availability                                  ,          89,         206,             43.2
+      2020,MARCH          ,Equipment Availability                                      ,           9,         206,              4.4
+      2020,MARCH          ,Human Factor                                                ,          12,         206,              5.8
+      2020,MARCH          ,Infrastructure Engineering                                  ,           4,         206,              1.9
+      2020,MARCH          ,Mechanical                                                  ,          45,         206,             21.8
+      2020,MARCH          ,Other                                                       ,          11,         206,              5.3
+      2020,MARCH          ,Other Railroads                                             ,           9,         206,              4.4
+      2020,MARCH          ,Technologies                                                ,          22,         206,             10.7
+      2020,MARCH          ,Unpreventable                                               ,           5,         206,              2.4
+      2020,MAY            ,Crew/Engineer Availability                                  ,         244,         299,             81.6
+      2020,MAY            ,Equipment Availability                                      ,           6,         299,                2
+      2020,MAY            ,Human Factor                                                ,           5,         299,              1.7
+      2020,MAY            ,Infrastructure Engineering                                  ,           5,         299,              1.7
+      2020,MAY            ,Mechanical                                                  ,          18,         299,                6
+      2020,MAY            ,Technologies                                                ,           1,         299,               .3
+      2020,MAY            ,Unpreventable                                               ,          20,         299,              6.7
+      2020,NOVEMBER       ,Carryover/Other                                             ,           1,         428,               .2
+      2020,NOVEMBER       ,Crew/Engineer Availability                                  ,          85,         428,             19.9
+      2020,NOVEMBER       ,Equipment Availability                                      ,          14,         428,              3.3
+      2020,NOVEMBER       ,Human Factor                                                ,           9,         428,              2.1
+      2020,NOVEMBER       ,Infrastructure Engineering                                  ,           9,         428,              2.1
+      2020,NOVEMBER       ,Mechanical                                                  ,          83,         428,             19.4
+      2020,NOVEMBER       ,Other                                                       ,         152,         428,             35.5
+      2020,NOVEMBER       ,Other Railroads                                             ,           2,         428,               .5
+      2020,NOVEMBER       ,Technologies                                                ,          19,         428,              4.4
+      2020,NOVEMBER       ,Unpreventable                                               ,          54,         428,             12.6
+      2020,OCTOBER        ,Crew/Engineer Availability                                  ,          42,         190,             22.1
+      2020,OCTOBER        ,Equipment Availability                                      ,           1,         190,               .5
+      2020,OCTOBER        ,Human Factor                                                ,          17,         190,              8.9
+      2020,OCTOBER        ,Infrastructure Engineering                                  ,           9,         190,              4.7
+      2020,OCTOBER        ,Mechanical                                                  ,          64,         190,             33.7
+      2020,OCTOBER        ,Technologies                                                ,          11,         190,              5.8
+      2020,OCTOBER        ,Unpreventable                                               ,          46,         190,             24.2
+      2020,SEPTEMBER      ,Crew/Engineer Availability                                  ,          51,         184,             27.7
+      2020,SEPTEMBER      ,Equipment Availability                                      ,          21,         184,             11.4
+      2020,SEPTEMBER      ,Human Factor                                                ,          10,         184,              5.4
+      2020,SEPTEMBER      ,Infrastructure Engineering                                  ,          12,         184,              6.5
+      2020,SEPTEMBER      ,Mechanical                                                  ,          65,         184,             35.3
+      2020,SEPTEMBER      ,Technologies                                                ,          11,         184,                6
+      2020,SEPTEMBER      ,Unpreventable                                               ,          14,         184,              7.6
+      2021,APRIL          ,Crew/Engineer Availability                                  ,           2,         147,              1.4
+      2021,APRIL          ,Equipment Availability                                      ,          11,         147,              7.5
+      2021,APRIL          ,Human Factor                                                ,          14,         147,              9.5
+      2021,APRIL          ,Infrastructure Engineering                                  ,           2,         147,              1.4
+      2021,APRIL          ,Mechanical                                                  ,          92,         147,             62.6
+      2021,APRIL          ,Other Railroads                                             ,          11,         147,              7.5
+      2021,APRIL          ,Unpreventable                                               ,          15,         147,             10.2
+      2021,AUGUST         ,Carryover/Other                                             ,           6,         311,              1.9
+      2021,AUGUST         ,Crew/Engineer Availability                                  ,          13,         311,              4.2
+      2021,AUGUST         ,Equipment Availability                                      ,          34,         311,             10.9
+      2021,AUGUST         ,Human Factor                                                ,          13,         311,              4.2
+      2021,AUGUST         ,Infrastructure Engineering                                  ,           2,         311,               .6
+      2021,AUGUST         ,Mechanical                                                  ,          99,         311,             31.8
+      2021,AUGUST         ,Other Railroads                                             ,          45,         311,             14.5
+      2021,AUGUST         ,Unpreventable                                               ,          99,         311,             31.8
+      2021,DECEMBER       ,Carryover/Other                                             ,           6,         299,                2
+      2021,DECEMBER       ,Crew/Engineer Availability                                  ,         125,         299,             41.8
+      2021,DECEMBER       ,Equipment Availability                                      ,          12,         299,                4
+      2021,DECEMBER       ,Human Factor                                                ,          25,         299,              8.4
+      2021,DECEMBER       ,Infrastructure Engineering                                  ,           7,         299,              2.3
+      2021,DECEMBER       ,Mechanical                                                  ,          99,         299,             33.1
+      2021,DECEMBER       ,Unpreventable                                               ,          25,         299,              8.4
+      2021,FEBRUARY       ,Carryover/Other                                             ,           2,         232,               .9
+      2021,FEBRUARY       ,Crew/Engineer Availability                                  ,          10,         232,              4.3
+      2021,FEBRUARY       ,Equipment Availability                                      ,          36,         232,             15.5
+      2021,FEBRUARY       ,Human Factor                                                ,          13,         232,              5.6
+      2021,FEBRUARY       ,Infrastructure Engineering                                  ,           8,         232,              3.4
+      2021,FEBRUARY       ,Mechanical                                                  ,          90,         232,             38.8
+      2021,FEBRUARY       ,Other Railroads                                             ,           6,         232,              2.6
+      2021,FEBRUARY       ,Unpreventable                                               ,          67,         232,             28.9
+      2021,JANUARY        ,Crew/Engineer Availability                                  ,           2,         231,               .9
+      2021,JANUARY        ,Equipment Availability                                      ,          32,         231,             13.9
+      2021,JANUARY        ,Human Factor                                                ,          52,         231,             22.5
+      2021,JANUARY        ,Infrastructure Engineering                                  ,           5,         231,              2.2
+      2021,JANUARY        ,Mechanical                                                  ,         121,         231,             52.4
+      2021,JANUARY        ,Other Railroads                                             ,           2,         231,               .9
+      2021,JANUARY        ,Unpreventable                                               ,          17,         231,              7.4
+      2021,JULY           ,Carryover/Other                                             ,           1,         291,               .3
+      2021,JULY           ,Crew/Engineer Availability                                  ,           4,         291,              1.4
+      2021,JULY           ,Equipment Availability                                      ,           8,         291,              2.7
+      2021,JULY           ,Human Factor                                                ,          17,         291,              5.8
+      2021,JULY           ,Infrastructure Engineering                                  ,          23,         291,              7.9
+      2021,JULY           ,Mechanical                                                  ,         109,         291,             37.5
+      2021,JULY           ,Other Railroads                                             ,           2,         291,               .7
+      2021,JULY           ,Unpreventable                                               ,         127,         291,             43.6
+      2021,JUNE           ,Crew/Engineer Availability                                  ,           5,         173,              2.9
+      2021,JUNE           ,Equipment Availability                                      ,           9,         173,              5.2
+      2021,JUNE           ,Human Factor                                                ,          14,         173,              8.1
+      2021,JUNE           ,Infrastructure Engineering                                  ,           3,         173,              1.7
+      2021,JUNE           ,Mechanical                                                  ,         112,         173,             64.7
+      2021,JUNE           ,Other Railroads                                             ,           2,         173,              1.2
+      2021,JUNE           ,Unpreventable                                               ,          28,         173,             16.2
+      2021,MARCH          ,Crew/Engineer Availability                                  ,           4,         153,              2.6
+      2021,MARCH          ,Equipment Availability                                      ,          10,         153,              6.5
+      2021,MARCH          ,Human Factor                                                ,          18,         153,             11.8
+      2021,MARCH          ,Infrastructure Engineering                                  ,           2,         153,              1.3
+      2021,MARCH          ,Mechanical                                                  ,          82,         153,             53.6
+      2021,MARCH          ,Other Railroads                                             ,           1,         153,               .7
+      2021,MARCH          ,Unpreventable                                               ,          36,         153,             23.5
+      2021,MAY            ,Carryover/Other                                             ,           7,         207,              3.4
+      2021,MAY            ,Equipment Availability                                      ,           9,         207,              4.3
+      2021,MAY            ,Human Factor                                                ,           3,         207,              1.4
+      2021,MAY            ,Infrastructure Engineering                                  ,           1,         207,               .5
+      2021,MAY            ,Mechanical                                                  ,          96,         207,             46.4
+      2021,MAY            ,Other Railroads                                             ,           5,         207,              2.4
+      2021,MAY            ,Unpreventable                                               ,          86,         207,             41.5
+      2021,NOVEMBER       ,Carryover/Other                                             ,          17,         239,              7.1
+      2021,NOVEMBER       ,Crew/Engineer Availability                                  ,           8,         239,              3.3
+      2021,NOVEMBER       ,Equipment Availability                                      ,           7,         239,              2.9
+      2021,NOVEMBER       ,Human Factor                                                ,          26,         239,             10.9
+      2021,NOVEMBER       ,Infrastructure Engineering                                  ,           4,         239,              1.7
+      2021,NOVEMBER       ,Mechanical                                                  ,         105,         239,             43.9
+      2021,NOVEMBER       ,Other Railroads                                             ,           2,         239,               .8
+      2021,NOVEMBER       ,Unpreventable                                               ,          70,         239,             29.3
+      2021,OCTOBER        ,Crew/Engineer Availability                                  ,           4,         287,              1.4
+      2021,OCTOBER        ,Equipment Availability                                      ,          11,         287,              3.8
+      2021,OCTOBER        ,Human Factor                                                ,          20,         287,                7
+      2021,OCTOBER        ,Infrastructure Engineering                                  ,          11,         287,              3.8
+      2021,OCTOBER        ,Mechanical                                                  ,         106,         287,             36.9
+      2021,OCTOBER        ,Other Railroads                                             ,           2,         287,               .7
+      2021,OCTOBER        ,Unpreventable                                               ,         133,         287,             46.3
+      2021,SEPTEMBER      ,Crew/Engineer Availability                                  ,           3,         397,               .8
+      2021,SEPTEMBER      ,Equipment Availability                                      ,           8,         397,                2
+      2021,SEPTEMBER      ,Human Factor                                                ,          19,         397,              4.8
+      2021,SEPTEMBER      ,Infrastructure Engineering                                  ,          12,         397,                3
+      2021,SEPTEMBER      ,Mechanical                                                  ,          87,         397,             21.9
+      2021,SEPTEMBER      ,Unpreventable                                               ,         268,         397,             67.5
+      2022,APRIL          ,Crew/Engineer Availability                                  ,           3,         100,                3
+      2022,APRIL          ,Equipment Availability                                      ,           2,         100,                2
+      2022,APRIL          ,Human Factor                                                ,           7,         100,                7
+      2022,APRIL          ,Infrastructure Engineering                                  ,           1,         100,                1
+      2022,APRIL          ,Mechanical                                                  ,          73,         100,               73
+      2022,APRIL          ,Other Railroads                                             ,           1,         100,                1
+      2022,APRIL          ,Unpreventable                                               ,          13,         100,               13
+      2022,AUGUST         ,Carryover/Other                                             ,           2,         308,               .6
+      2022,AUGUST         ,Crew/Engineer Availability                                  ,           1,         308,               .3
+      2022,AUGUST         ,Equipment Availability                                      ,          19,         308,              6.2
+      2022,AUGUST         ,Human Factor                                                ,          27,         308,              8.8
+      2022,AUGUST         ,Infrastructure Engineering                                  ,          18,         308,              5.8
+      2022,AUGUST         ,Mechanical                                                  ,         144,         308,             46.8
+      2022,AUGUST         ,Other Railroads                                             ,           8,         308,              2.6
+      2022,AUGUST         ,Technologies                                                ,           2,         308,               .6
+      2022,AUGUST         ,Unpreventable                                               ,          87,         308,             28.2
+      2022,DECEMBER       ,Carryover/Other                                             ,           6,         178,              3.4
+      2022,DECEMBER       ,Crew/Engineer Availability                                  ,           4,         178,              2.2
+      2022,DECEMBER       ,Equipment Availability                                      ,           1,         178,               .6
+      2022,DECEMBER       ,Human Factor                                                ,          11,         178,              6.2
+      2022,DECEMBER       ,Infrastructure Engineering                                  ,           7,         178,              3.9
+      2022,DECEMBER       ,Mechanical                                                  ,         103,         178,             57.9
+      2022,DECEMBER       ,Other Railroads                                             ,           7,         178,              3.9
+      2022,DECEMBER       ,Unpreventable                                               ,          39,         178,             21.9
+      2022,FEBRUARY       ,Carryover/Other                                             ,           1,         233,               .4
+      2022,FEBRUARY       ,Crew/Engineer Availability                                  ,          19,         233,              8.2
+      2022,FEBRUARY       ,Equipment Availability                                      ,          11,         233,              4.7
+      2022,FEBRUARY       ,Human Factor                                                ,          14,         233,                6
+      2022,FEBRUARY       ,Infrastructure Engineering                                  ,           1,         233,               .4
+      2022,FEBRUARY       ,Mechanical                                                  ,         105,         233,             45.1
+      2022,FEBRUARY       ,Other Railroads                                             ,           2,         233,               .9
+      2022,FEBRUARY       ,Unpreventable                                               ,          80,         233,             34.3
+      2022,JANUARY        ,Carryover/Other                                             ,           3,         378,               .8
+      2022,JANUARY        ,Crew/Engineer Availability                                  ,         140,         378,               37
+      2022,JANUARY        ,Equipment Availability                                      ,          10,         378,              2.6
+      2022,JANUARY        ,Human Factor                                                ,          28,         378,              7.4
+      2022,JANUARY        ,Infrastructure Engineering                                  ,          19,         378,                5
+      2022,JANUARY        ,Mechanical                                                  ,         126,         378,             33.3
+      2022,JANUARY        ,Other Railroads                                             ,           3,         378,               .8
+      2022,JANUARY        ,Unpreventable                                               ,          49,         378,               13
+      2022,JULY           ,Carryover/Other                                             ,           1,         210,               .5
+      2022,JULY           ,Crew/Engineer Availability                                  ,           7,         210,              3.3
+      2022,JULY           ,Equipment Availability                                      ,           8,         210,              3.8
+      2022,JULY           ,Human Factor                                                ,          19,         210,                9
+      2022,JULY           ,Infrastructure Engineering                                  ,           1,         210,               .5
+      2022,JULY           ,Mechanical                                                  ,         143,         210,             68.1
+      2022,JULY           ,Other Railroads                                             ,           2,         210,                1
+      2022,JULY           ,Unpreventable                                               ,          29,         210,             13.8
+      2022,JUNE           ,Carryover/Other                                             ,           7,         437,              1.6
+      2022,JUNE           ,Crew/Engineer Availability                                  ,         269,         437,             61.6
+      2022,JUNE           ,Equipment Availability                                      ,           1,         437,               .2
+      2022,JUNE           ,Human Factor                                                ,          20,         437,              4.6
+      2022,JUNE           ,Infrastructure Engineering                                  ,           9,         437,              2.1
+      2022,JUNE           ,Mechanical                                                  ,         106,         437,             24.3
+      2022,JUNE           ,Other Railroads                                             ,           1,         437,               .2
+      2022,JUNE           ,Unpreventable                                               ,          24,         437,              5.5
+      2022,MARCH          ,Carryover/Other                                             ,           4,         273,              1.5
+      2022,MARCH          ,Human Factor                                                ,          13,         273,              4.8
+      2022,MARCH          ,Infrastructure Engineering                                  ,           8,         273,              2.9
+      2022,MARCH          ,Mechanical                                                  ,          76,         273,             27.8
+      2022,MARCH          ,Unpreventable                                               ,         172,         273,               63
+      2022,MAY            ,Crew/Engineer Availability                                  ,           2,         123,              1.6
+      2022,MAY            ,Equipment Availability                                      ,           3,         123,              2.4
+      2022,MAY            ,Human Factor                                                ,          21,         123,             17.1
+      2022,MAY            ,Infrastructure Engineering                                  ,           8,         123,              6.5
+      2022,MAY            ,Mechanical                                                  ,          80,         123,               65
+      2022,MAY            ,Other Railroads                                             ,           2,         123,              1.6
+      2022,MAY            ,Unpreventable                                               ,           7,         123,              5.7
+      2022,NOVEMBER       ,Crew/Engineer Availability                                  ,           8,         139,              5.8
+      2022,NOVEMBER       ,Equipment Availability                                      ,           3,         139,              2.2
+      2022,NOVEMBER       ,Human Factor                                                ,          23,         139,             16.5
+      2022,NOVEMBER       ,Infrastructure Engineering                                  ,          13,         139,              9.4
+      2022,NOVEMBER       ,Mechanical                                                  ,          64,         139,               46
+      2022,NOVEMBER       ,Other Railroads                                             ,          14,         139,             10.1
+      2022,NOVEMBER       ,Unpreventable                                               ,          14,         139,             10.1
+      2022,OCTOBER        ,Crew/Engineer Availability                                  ,           1,         184,               .5
+      2022,OCTOBER        ,Equipment Availability                                      ,          10,         184,              5.4
+      2022,OCTOBER        ,Human Factor                                                ,          13,         184,              7.1
+      2022,OCTOBER        ,Infrastructure Engineering                                  ,          13,         184,              7.1
+      2022,OCTOBER        ,Mechanical                                                  ,         120,         184,             65.2
+      2022,OCTOBER        ,Unpreventable                                               ,          27,         184,             14.7
+      2022,SEPTEMBER      ,Carryover/Other                                             ,           2,         213,               .9
+      2022,SEPTEMBER      ,Equipment Availability                                      ,           9,         213,              4.2
+      2022,SEPTEMBER      ,Human Factor                                                ,          15,         213,                7
+      2022,SEPTEMBER      ,Infrastructure Engineering                                  ,           7,         213,              3.3
+      2022,SEPTEMBER      ,Mechanical                                                  ,         111,         213,             52.1
+      2022,SEPTEMBER      ,Other Railroads                                             ,          26,         213,             12.2
+      2022,SEPTEMBER      ,Unpreventable                                               ,          43,         213,             20.2
+      2023,APRIL          ,Human Factor                                                ,          21,          94,             22.3
+      2023,APRIL          ,Mechanical                                                  ,          57,          94,             60.6
+      2023,APRIL          ,Other Railroads                                             ,           3,          94,              3.2
+      2023,APRIL          ,Unpreventable                                               ,          13,          94,             13.8
+      2023,AUGUST         ,Human Factor                                                ,          17,         292,              5.8
+      2023,AUGUST         ,Infrastructure Engineering                                  ,           2,         292,               .7
+      2023,AUGUST         ,Mechanical                                                  ,         102,         292,             34.9
+      2023,AUGUST         ,Other Railroads                                             ,           5,         292,              1.7
+      2023,AUGUST         ,Unpreventable                                               ,         166,         292,             56.8
+      2023,DECEMBER       ,Equipment Availability                                      ,           1,         301,               .3
+      2023,DECEMBER       ,Human Factor                                                ,         128,         301,             42.5
+      2023,DECEMBER       ,Infrastructure Engineering                                  ,           1,         301,               .3
+      2023,DECEMBER       ,Mechanical                                                  ,         109,         301,             36.2
+      2023,DECEMBER       ,Other Railroads                                             ,           5,         301,              1.7
+      2023,DECEMBER       ,Unpreventable                                               ,          57,         301,             18.9
+      2023,FEBRUARY       ,Carryover/Other                                             ,          28,         159,             17.6
+      2023,FEBRUARY       ,Human Factor                                                ,           7,         159,              4.4
+      2023,FEBRUARY       ,Infrastructure Engineering                                  ,           5,         159,              3.1
+      2023,FEBRUARY       ,Mechanical                                                  ,          67,         159,             42.1
+      2023,FEBRUARY       ,Other Railroads                                             ,           7,         159,              4.4
+      2023,FEBRUARY       ,Unpreventable                                               ,          45,         159,             28.3
+      2023,JANUARY        ,Equipment Availability                                      ,           3,          99,                3
+      2023,JANUARY        ,Human Factor                                                ,           9,          99,              9.1
+      2023,JANUARY        ,Infrastructure Engineering                                  ,           2,          99,                2
+      2023,JANUARY        ,Mechanical                                                  ,          74,          99,             74.7
+      2023,JANUARY        ,Unpreventable                                               ,          11,          99,             11.1
+      2023,JULY           ,Carryover/Other                                             ,           6,         331,              1.8
+      2023,JULY           ,Crew/Engineer Availability                                  ,           1,         331,               .3
+      2023,JULY           ,Equipment Availability                                      ,           9,         331,              2.7
+      2023,JULY           ,Human Factor                                                ,          13,         331,              3.9
+      2023,JULY           ,Infrastructure Engineering                                  ,         125,         331,             37.8
+      2023,JULY           ,Mechanical                                                  ,         126,         331,             38.1
+      2023,JULY           ,Other Railroads                                             ,           8,         331,              2.4
+      2023,JULY           ,Unpreventable                                               ,          43,         331,               13
+      2023,JUNE           ,Carryover/Other                                             ,          98,         268,             36.6
+      2023,JUNE           ,Equipment Availability                                      ,           3,         268,              1.1
+      2023,JUNE           ,Human Factor                                                ,          17,         268,              6.3
+      2023,JUNE           ,Infrastructure Engineering                                  ,           7,         268,              2.6
+      2023,JUNE           ,Mechanical                                                  ,          76,         268,             28.4
+      2023,JUNE           ,Unpreventable                                               ,          67,         268,               25
+      2023,MARCH          ,Carryover/Other                                             ,          17,         201,              8.5
+      2023,MARCH          ,Equipment Availability                                      ,           1,         201,               .5
+      2023,MARCH          ,Human Factor                                                ,          12,         201,                6
+      2023,MARCH          ,Infrastructure Engineering                                  ,           7,         201,              3.5
+      2023,MARCH          ,Mechanical                                                  ,          89,         201,             44.3
+      2023,MARCH          ,Other Railroads                                             ,           3,         201,              1.5
+      2023,MARCH          ,Unpreventable                                               ,          72,         201,             35.8
+      2023,MAY            ,Carryover/Other                                             ,           3,          91,              3.3
+      2023,MAY            ,Equipment Availability                                      ,           3,          91,              3.3
+      2023,MAY            ,Human Factor                                                ,           4,          91,              4.4
+      2023,MAY            ,Infrastructure Engineering                                  ,           2,          91,              2.2
+      2023,MAY            ,Mechanical                                                  ,          72,          91,             79.1
+      2023,MAY            ,Unpreventable                                               ,           7,          91,              7.7
+      2023,NOVEMBER       ,Carryover/Other                                             ,           4,         244,              1.6
+      2023,NOVEMBER       ,Equipment Availability                                      ,           8,         244,              3.3
+      2023,NOVEMBER       ,Human Factor                                                ,          18,         244,              7.4
+      2023,NOVEMBER       ,Mechanical                                                  ,         149,         244,             61.1
+      2023,NOVEMBER       ,Unpreventable                                               ,          65,         244,             26.6
+      2023,OCTOBER        ,Carryover/Other                                             ,           4,         213,              1.9
+      2023,OCTOBER        ,Equipment Availability                                      ,          28,         213,             13.1
+      2023,OCTOBER        ,Human Factor                                                ,          11,         213,              5.2
+      2023,OCTOBER        ,Infrastructure Engineering                                  ,          11,         213,              5.2
+      2023,OCTOBER        ,Mechanical                                                  ,         118,         213,             55.4
+      2023,OCTOBER        ,Unpreventable                                               ,          41,         213,             19.2
+      2023,SEPTEMBER      ,Carryover/Other                                             ,         102,         356,             28.7
+      2023,SEPTEMBER      ,Equipment Availability                                      ,           5,         356,              1.4
+      2023,SEPTEMBER      ,Human Factor                                                ,          24,         356,              6.7
+      2023,SEPTEMBER      ,Infrastructure Engineering                                  ,           1,         356,               .3
+      2023,SEPTEMBER      ,Mechanical                                                  ,         113,         356,             31.7
+      2023,SEPTEMBER      ,Unpreventable                                               ,         111,         356,             31.2
+      2024,APRIL          ,Equipment Availability                                      ,           8,         328,              2.4
+      2024,APRIL          ,Human Factor                                                ,          17,         328,              5.2
+      2024,APRIL          ,Infrastructure Engineering                                  ,         120,         328,             36.6
+      2024,APRIL          ,Mechanical                                                  ,         121,         328,             36.9
+      2024,APRIL          ,Other Railroads                                             ,           1,         328,               .3
+      2024,APRIL          ,Unpreventable                                               ,          61,         328,             18.6
+      2024,AUGUST         ,Carryover/Other                                             ,          13,         489,              2.7
+      2024,AUGUST         ,Equipment Availability                                      ,          20,         489,              4.1
+      2024,AUGUST         ,Human Factor                                                ,          12,         489,              2.5
+      2024,AUGUST         ,Infrastructure Engineering                                  ,           9,         489,              1.8
+      2024,AUGUST         ,Mechanical                                                  ,         143,         489,             29.2
+      2024,AUGUST         ,Other Railroads                                             ,           4,         489,               .8
+      2024,AUGUST         ,Unpreventable                                               ,         288,         489,             58.9
+      2024,DECEMBER       ,Carryover/Other                                             ,           8,         244,              3.3
+      2024,DECEMBER       ,Crew/Engineer Availability                                  ,           7,         244,              2.9
+      2024,DECEMBER       ,Equipment Availability                                      ,           5,         244,                2
+      2024,DECEMBER       ,Human Factor                                                ,          20,         244,              8.2
+      2024,DECEMBER       ,Infrastructure Engineering                                  ,          30,         244,             12.3
+      2024,DECEMBER       ,Mechanical                                                  ,         119,         244,             48.8
+      2024,DECEMBER       ,Other Railroads                                             ,           9,         244,              3.7
+      2024,DECEMBER       ,Unpreventable                                               ,          46,         244,             18.9
+      2024,FEBRUARY       ,Carryover/Other                                             ,           4,         155,              2.6
+      2024,FEBRUARY       ,Crew/Engineer Availability                                  ,           2,         155,              1.3
+      2024,FEBRUARY       ,Equipment Availability                                      ,           6,         155,              3.9
+      2024,FEBRUARY       ,Human Factor                                                ,           8,         155,              5.2
+      2024,FEBRUARY       ,Infrastructure Engineering                                  ,          13,         155,              8.4
+      2024,FEBRUARY       ,Mechanical                                                  ,         106,         155,             68.4
+      2024,FEBRUARY       ,Other Railroads                                             ,           2,         155,              1.3
+      2024,FEBRUARY       ,Unpreventable                                               ,          14,         155,                9
+      2024,JANUARY        ,Carryover/Other                                             ,           4,         229,              1.7
+      2024,JANUARY        ,Equipment Availability                                      ,           7,         229,              3.1
+      2024,JANUARY        ,Human Factor                                                ,          22,         229,              9.6
+      2024,JANUARY        ,Infrastructure Engineering                                  ,           2,         229,               .9
+      2024,JANUARY        ,Mechanical                                                  ,         121,         229,             52.8
+      2024,JANUARY        ,Other Railroads                                             ,           2,         229,               .9
+      2024,JANUARY        ,Technologies                                                ,           3,         229,              1.3
+      2024,JANUARY        ,Unpreventable                                               ,          68,         229,             29.7
+      2024,JULY           ,Carryover/Other                                             ,           8,         553,              1.4
+      2024,JULY           ,Equipment Availability                                      ,          13,         553,              2.4
+      2024,JULY           ,Human Factor                                                ,          29,         553,              5.2
+      2024,JULY           ,Infrastructure Engineering                                  ,         174,         553,             31.5
+      2024,JULY           ,Mechanical                                                  ,         177,         553,               32
+      2024,JULY           ,Other Railroads                                             ,           2,         553,               .4
+      2024,JULY           ,Unpreventable                                               ,         150,         553,             27.1
+      2024,JUNE           ,Crew/Engineer Availability                                  ,          10,         242,              4.1
+      2024,JUNE           ,Equipment Availability                                      ,          16,         242,              6.6
+      2024,JUNE           ,Human Factor                                                ,          15,         242,              6.2
+      2024,JUNE           ,Infrastructure Engineering                                  ,          12,         242,                5
+      2024,JUNE           ,Mechanical                                                  ,         142,         242,             58.7
+      2024,JUNE           ,Other Railroads                                             ,           1,         242,               .4
+      2024,JUNE           ,Unpreventable                                               ,          46,         242,               19
+      2024,MARCH          ,Equipment Availability                                      ,           4,         151,              2.6
+      2024,MARCH          ,Human Factor                                                ,          22,         151,             14.6
+      2024,MARCH          ,Infrastructure Engineering                                  ,           1,         151,               .7
+      2024,MARCH          ,Mechanical                                                  ,         100,         151,             66.2
+      2024,MARCH          ,Unpreventable                                               ,          24,         151,             15.9
+      2024,MAY            ,Carryover/Other                                             ,           1,         196,               .5
+      2024,MAY            ,Equipment Availability                                      ,          21,         196,             10.7
+      2024,MAY            ,Human Factor                                                ,          27,         196,             13.8
+      2024,MAY            ,Infrastructure Engineering                                  ,          15,         196,              7.7
+      2024,MAY            ,Mechanical                                                  ,         102,         196,               52
+      2024,MAY            ,Other Railroads                                             ,           2,         196,                1
+      2024,MAY            ,Unpreventable                                               ,          28,         196,             14.3
+      2024,NOVEMBER       ,Carryover/Other                                             ,           8,         163,              4.9
+      2024,NOVEMBER       ,Equipment Availability                                      ,           5,         163,              3.1
+      2024,NOVEMBER       ,Human Factor                                                ,          21,         163,             12.9
+      2024,NOVEMBER       ,Infrastructure Engineering                                  ,          15,         163,              9.2
+      2024,NOVEMBER       ,Mechanical                                                  ,          74,         163,             45.4
+      2024,NOVEMBER       ,Other Railroads                                             ,           2,         163,              1.2
+      2024,NOVEMBER       ,Unpreventable                                               ,          38,         163,             23.3
+      2024,OCTOBER        ,Carryover/Other                                             ,           4,         207,              1.9
+      2024,OCTOBER        ,Crew/Engineer Availability                                  ,           2,         207,                1
+      2024,OCTOBER        ,Equipment Availability                                      ,          11,         207,              5.3
+      2024,OCTOBER        ,Human Factor                                                ,          31,         207,               15
+      2024,OCTOBER        ,Infrastructure Engineering                                  ,           2,         207,                1
+      2024,OCTOBER        ,Mechanical                                                  ,         114,         207,             55.1
+      2024,OCTOBER        ,Unpreventable                                               ,          43,         207,             20.8
+      2024,SEPTEMBER      ,Equipment Availability                                      ,           9,         167,              5.4
+      2024,SEPTEMBER      ,Human Factor                                                ,          16,         167,              9.6
+      2024,SEPTEMBER      ,Infrastructure Engineering                                  ,          11,         167,              6.6
+      2024,SEPTEMBER      ,Mechanical                                                  ,         116,         167,             69.5
+      2024,SEPTEMBER      ,Other Railroads                                             ,           1,         167,               .6
+      2024,SEPTEMBER      ,Unpreventable                                               ,          14,         167,              8.4
+      2025,APRIL          ,Crew/Engineer Availability                                  ,          27,         191,             14.1
+      2025,APRIL          ,Equipment Availability                                      ,           1,         191,               .5
+      2025,APRIL          ,Human Factor                                                ,          17,         191,              8.9
+      2025,APRIL          ,Infrastructure Engineering                                  ,           8,         191,              4.2
+      2025,APRIL          ,Mechanical                                                  ,          96,         191,             50.3
+      2025,APRIL          ,Other Railroads                                             ,           1,         191,               .5
+      2025,APRIL          ,Unpreventable                                               ,          41,         191,             21.5
+      2025,AUGUST         ,Carryover/Other                                             ,           2,         409,               .5
+      2025,AUGUST         ,Crew/Engineer Availability                                  ,         172,         409,             42.1
+      2025,AUGUST         ,Equipment Availability                                      ,          31,         409,              7.6
+      2025,AUGUST         ,Human Factor                                                ,          18,         409,              4.4
+      2025,AUGUST         ,Infrastructure Engineering                                  ,          17,         409,              4.2
+      2025,AUGUST         ,Mechanical                                                  ,         136,         409,             33.3
+      2025,AUGUST         ,Other Railroads                                             ,           2,         409,               .5
+      2025,AUGUST         ,Unpreventable                                               ,          31,         409,              7.6
+      2025,DECEMBER       ,Carryover/Other                                             ,           4,         557,               .7
+      2025,DECEMBER       ,Crew/Engineer Availability                                  ,          89,         557,               16
+      2025,DECEMBER       ,Equipment Availability                                      ,         139,         557,               25
+      2025,DECEMBER       ,Human Factor                                                ,          38,         557,              6.8
+      2025,DECEMBER       ,Infrastructure Engineering                                  ,          16,         557,              2.9
+      2025,DECEMBER       ,Mechanical                                                  ,         159,         557,             28.5
+      2025,DECEMBER       ,Other Railroads                                             ,           6,         557,              1.1
+      2025,DECEMBER       ,Unpreventable                                               ,         106,         557,               19
+      2025,FEBRUARY       ,Carryover/Other                                             ,           3,         203,              1.5
+      2025,FEBRUARY       ,Crew/Engineer Availability                                  ,           9,         203,              4.4
+      2025,FEBRUARY       ,Equipment Availability                                      ,           6,         203,                3
+      2025,FEBRUARY       ,Human Factor                                                ,          12,         203,              5.9
+      2025,FEBRUARY       ,Infrastructure Engineering                                  ,           2,         203,                1
+      2025,FEBRUARY       ,Mechanical                                                  ,         105,         203,             51.7
+      2025,FEBRUARY       ,Other Railroads                                             ,          43,         203,             21.2
+      2025,FEBRUARY       ,Unpreventable                                               ,          23,         203,             11.3
+      2025,JANUARY        ,Carryover/Other                                             ,           1,         221,               .5
+      2025,JANUARY        ,Equipment Availability                                      ,           8,         221,              3.6
+      2025,JANUARY        ,Human Factor                                                ,          13,         221,              5.9
+      2025,JANUARY        ,Infrastructure Engineering                                  ,          16,         221,              7.2
+      2025,JANUARY        ,Mechanical                                                  ,         140,         221,             63.3
+      2025,JANUARY        ,Other Railroads                                             ,           4,         221,              1.8
+      2025,JANUARY        ,Unpreventable                                               ,          39,         221,             17.6
+      2025,JULY           ,Carryover/Other                                             ,           2,         643,               .3
+      2025,JULY           ,Crew/Engineer Availability                                  ,          62,         643,              9.6
+      2025,JULY           ,Equipment Availability                                      ,         157,         643,             24.4
+      2025,JULY           ,Human Factor                                                ,          48,         643,              7.5
+      2025,JULY           ,Infrastructure Engineering                                  ,           7,         643,              1.1
+      2025,JULY           ,Mechanical                                                  ,         256,         643,             39.8
+      2025,JULY           ,Unpreventable                                               ,         111,         643,             17.3
+      2025,JUNE           ,Carryover/Other                                             ,           2,         556,               .4
+      2025,JUNE           ,Crew/Engineer Availability                                  ,          25,         556,              4.5
+      2025,JUNE           ,Equipment Availability                                      ,         100,         556,               18
+      2025,JUNE           ,Human Factor                                                ,          11,         556,                2
+      2025,JUNE           ,Infrastructure Engineering                                  ,          28,         556,                5
+      2025,JUNE           ,Mechanical                                                  ,         242,         556,             43.5
+      2025,JUNE           ,Other Railroads                                             ,           2,         556,               .4
+      2025,JUNE           ,Unpreventable                                               ,         146,         556,             26.3
+      2025,MARCH          ,Crew/Engineer Availability                                  ,           6,         166,              3.6
+      2025,MARCH          ,Equipment Availability                                      ,           4,         166,              2.4
+      2025,MARCH          ,Human Factor                                                ,          22,         166,             13.3
+      2025,MARCH          ,Infrastructure Engineering                                  ,           4,         166,              2.4
+      2025,MARCH          ,Mechanical                                                  ,          70,         166,             42.2
+      2025,MARCH          ,Other Railroads                                             ,           2,         166,              1.2
+      2025,MARCH          ,Unpreventable                                               ,          58,         166,             34.9
+      2025,MAY            ,Carryover/Other                                             ,           2,         229,               .9
+      2025,MAY            ,Crew/Engineer Availability                                  ,          23,         229,               10
+      2025,MAY            ,Equipment Availability                                      ,          25,         229,             10.9
+      2025,MAY            ,Human Factor                                                ,          15,         229,              6.6
+      2025,MAY            ,Infrastructure Engineering                                  ,           1,         229,               .4
+      2025,MAY            ,Mechanical                                                  ,         105,         229,             45.9
+      2025,MAY            ,Other Railroads                                             ,           2,         229,               .9
+      2025,MAY            ,Unpreventable                                               ,          56,         229,             24.5
+      2025,NOVEMBER       ,Carryover/Other                                             ,           4,         215,              1.9
+      2025,NOVEMBER       ,Crew/Engineer Availability                                  ,          24,         215,             11.2
+      2025,NOVEMBER       ,Equipment Availability                                      ,          17,         215,              7.9
+      2025,NOVEMBER       ,Human Factor                                                ,           7,         215,              3.3
+      2025,NOVEMBER       ,Infrastructure Engineering                                  ,          19,         215,              8.8
+      2025,NOVEMBER       ,Mechanical                                                  ,         122,         215,             56.7
+      2025,NOVEMBER       ,Unpreventable                                               ,          22,         215,             10.2
+      2025,OCTOBER        ,Carryover/Other                                             ,           3,         420,               .7
+      2025,OCTOBER        ,Crew/Engineer Availability                                  ,          80,         420,               19
+      2025,OCTOBER        ,Equipment Availability                                      ,          43,         420,             10.2
+      2025,OCTOBER        ,Human Factor                                                ,          24,         420,              5.7
+      2025,OCTOBER        ,Infrastructure Engineering                                  ,          23,         420,              5.5
+      2025,OCTOBER        ,Mechanical                                                  ,         110,         420,             26.2
+      2025,OCTOBER        ,Other Railroads                                             ,           7,         420,              1.7
+      2025,OCTOBER        ,Unpreventable                                               ,         130,         420,               31
+      2025,SEPTEMBER      ,Crew/Engineer Availability                                  ,          40,         298,             13.4
+      2025,SEPTEMBER      ,Equipment Availability                                      ,           6,         298,                2
+      2025,SEPTEMBER      ,Human Factor                                                ,         103,         298,             34.6
+      2025,SEPTEMBER      ,Infrastructure Engineering                                  ,          13,         298,              4.4
+      2025,SEPTEMBER      ,Mechanical                                                  ,         124,         298,             41.6
+      2025,SEPTEMBER      ,Other Railroads                                             ,           1,         298,               .3
+      2025,SEPTEMBER      ,Unpreventable                                               ,          11,         298,              3.7
+      2026,APRIL          ,Crew/Engineer Availability                                  ,          77,         279,             27.6
+      2026,APRIL          ,Equipment Availability                                      ,          27,         279,              9.7
+      2026,APRIL          ,Human Factor                                                ,           9,         279,              3.2
+      2026,APRIL          ,Mechanical                                                  ,         134,         279,               48
+      2026,APRIL          ,Other Railroads                                             ,           6,         279,              2.2
+      2026,APRIL          ,Unpreventable                                               ,          26,         279,              9.3
+      2026,FEBRUARY       ,Carryover/Other                                             ,           1,         474,               .2
+      2026,FEBRUARY       ,Crew/Engineer Availability                                  ,         231,         474,             48.7
+      2026,FEBRUARY       ,Equipment Availability                                      ,          10,         474,              2.1
+      2026,FEBRUARY       ,Human Factor                                                ,          13,         474,              2.7
+      2026,FEBRUARY       ,Infrastructure Engineering                                  ,           7,         474,              1.5
+      2026,FEBRUARY       ,Mechanical                                                  ,         120,         474,             25.3
+      2026,FEBRUARY       ,Other Railroads                                             ,           1,         474,               .2
+      2026,FEBRUARY       ,Unpreventable                                               ,          91,         474,             19.2
+      2026,JANUARY        ,Carryover/Other                                             ,           4,         365,              1.1
+      2026,JANUARY        ,Crew/Engineer Availability                                  ,          21,         365,              5.8
+      2026,JANUARY        ,Equipment Availability                                      ,          59,         365,             16.2
+      2026,JANUARY        ,Human Factor                                                ,          11,         365,                3
+      2026,JANUARY        ,Infrastructure Engineering                                  ,           5,         365,              1.4
+      2026,JANUARY        ,Mechanical                                                  ,         191,         365,             52.3
+      2026,JANUARY        ,Other Railroads                                             ,           2,         365,               .5
+      2026,JANUARY        ,Unpreventable                                               ,          72,         365,             19.7
+      2026,JULY           ,Carryover/Other                                             ,           1,         764,               .1
+      2026,JULY           ,Crew/Engineer Availability                                  ,          62,         764,              8.1
+      2026,JULY           ,Equipment Availability                                      ,          41,         764,              5.4
+      2026,JULY           ,Human Factor                                                ,           8,         764,                1
+      2026,JULY           ,Infrastructure Engineering                                  ,           5,         764,               .7
+      2026,JULY           ,Mechanical                                                  ,         161,         764,             21.1
+      2026,JULY           ,Other Railroads                                             ,          10,         764,              1.3
+      2026,JULY           ,Unpreventable                                               ,         476,         764,             62.3
+      2026,JUNE           ,Carryover/Other                                             ,           2,         306,               .7
+      2026,JUNE           ,Crew/Engineer Availability                                  ,           4,         306,              1.3
+      2026,JUNE           ,Equipment Availability                                      ,          14,         306,              4.6
+      2026,JUNE           ,Human Factor                                                ,          17,         306,              5.6
+      2026,JUNE           ,Infrastructure Engineering                                  ,          36,         306,             11.8
+      2026,JUNE           ,Mechanical                                                  ,         167,         306,             54.6
+      2026,JUNE           ,Other Railroads                                             ,           4,         306,              1.3
+      2026,JUNE           ,Unpreventable                                               ,          62,         306,             20.3
+      2026,MARCH          ,Carryover/Other                                             ,           1,         434,               .2
+      2026,MARCH          ,Crew/Engineer Availability                                  ,         224,         434,             51.6
+      2026,MARCH          ,Equipment Availability                                      ,           9,         434,              2.1
+      2026,MARCH          ,Human Factor                                                ,          14,         434,              3.2
+      2026,MARCH          ,Infrastructure Engineering                                  ,          34,         434,              7.8
+      2026,MARCH          ,Mechanical                                                  ,          98,         434,             22.6
+      2026,MARCH          ,Unpreventable                                               ,          54,         434,             12.4
+      2026,MAY            ,Carryover/Other                                             ,           2,         231,               .9
+      2026,MAY            ,Crew/Engineer Availability                                  ,          19,         231,              8.2
+      2026,MAY            ,Equipment Availability                                      ,          11,         231,              4.8
+      2026,MAY            ,Human Factor                                                ,           8,         231,              3.5
+      2026,MAY            ,Infrastructure Engineering                                  ,          15,         231,              6.5
+      2026,MAY            ,Mechanical                                                  ,         118,         231,             51.1
+      2026,MAY            ,Unpreventable                                               ,          58,         231,             25.1
